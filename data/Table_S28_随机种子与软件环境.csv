@@ -1,0 +1,24 @@
+﻿Type,Item,Setting,Value,Note
+Environment,Operating system,platform,macOS-15.7.3-arm64-arm-64bit-Mach-O,Apple silicon (arm64)
+Environment,Python,interpreter,3.13.12,CPython
+Environment,numpy,installed version,2.5.3,array and linear algebra
+Environment,scipy,installed version,1.18.1,"optimisation, interpolation"
+Environment,pandas,installed version,2.3.3,tables
+Environment,scikit-learn,installed version,1.9.1,"KFold, KMeans, StandardScaler"
+Environment,scikit-survival,installed version,0.28.0,"CoxnetSurvivalAnalysis, concordance_index_censored, cumulative_dynamic_auc"
+Environment,lifelines,installed version,0.30.3,"CoxPHFitter, Breslow baseline cumulative hazard"
+Environment,matplotlib,installed version,3.11.2,figure rendering
+Environment,anndata,installed version,0.13.4,single-cell h5ad reading
+Environment,h5py,installed version,3.16.0,HDF5 access
+Environment,openpyxl,installed version,3.1.5,spreadsheet export
+Seed,"k-means subtypes of the 25 Model A genes (k = 2, Figure 7A)","sklearn.cluster.KMeans(n_clusters=2, n_init=50, random_state=42)",42,n_init = 50 restarts; the partition is stable across restarts (silhouette 0.276).
+Seed,"10-fold cross-validation along the LASSO path (Figure 4A, Table S7)","sklearn.model_selection.KFold(n_splits=10, shuffle=True, random_state=7)",7,"Shuffled folds; the curve is flat-topped, so the fold assignment is not decisive."
+Seed,Fully nested cross-validation (the 0.731 conservative estimate),outer KFold(random_state=7); inner alpha selection seed = 1,"7 (outer), 1 (inner)","Gene selection, alpha selection and performance estimation are all inside the outer loop."
+Seed,Sensitivity of the cross-validated estimate to fold assignment,"KFold(random_state=42), KFold(random_state=11)","42, 11",Reported only as a robustness check; no claim rests on the difference.
+Seed,"200-bootstrap stability selection, original run (Table 2, Table S6)",numpy.random.seed(20261004),20261004,200 patient-level bootstrap resamples of the 88-gene candidate set at alpha = 0.02432298416536324.
+Seed,"200-bootstrap stability selection, replication run (Table 2, Table S6)",numpy.random.default_rng(7),7,"Independent seed over the full 89-gene candidate set; the candidate sets differ, so this is a check that the same core is recovered, not a pure seed-dependence test."
+Seed,"Randomised-panel benchmark, run 1 (Table 4)",numpy.random.default_rng(20261004 + k + int(penalty * 100)),"20261008 (k = 4), 20261129 (k = 25)","3,000 draws per panel size; the seed is a deterministic function of k and the penalty so that each panel is independently reproducible."
+Seed,"Randomised-panel benchmark, run 2 (Table 4)",as above + 977,"20261985 (k = 4), 20262106 (k = 25)",Independent replication of the same benchmark; a conclusion is drawn only where it holds in both runs.
+Seed,NRI and IDI (Section 3.6),numpy.random.seed(42),42,Patient-level resampling for the continuous-NRI and IDI confidence intervals.
+Seed,"Time-dependent AUC and RMST, paired bootstrap (Figure 5A; Table S23, Table S24)","numpy.random.default_rng(20261004) for the shared patient resample, numpy.random.default_rng(7) for the paired draw","20261004, 7","2,000 resamples; the same resampled patients are scored by both models, so the difference is paired rather than independent."
+Seed,"Single-cell aggregation (Figures 8A, 8B; Tables S10, S11, S16)",none - deterministic,-,Cell-type and state means are computed over the full deposited cell set; no subsampling or stochastic step is involved.

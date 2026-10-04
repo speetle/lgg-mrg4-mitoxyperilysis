@@ -1,0 +1,58 @@
+﻿Immune_feature,Marker_gene,Status
+CD8+ T cells,CD8A,included
+CD8+ T cells,CD8B,included
+CD8+ T cells,GZMA,included
+CD8+ T cells,GZMK,included
+CD8+ T cells,PRF1,included
+CD8+ T cells,NKG7,included
+CD4+ T cells,CD4,included
+CD4+ T cells,IL7R,included
+CD4+ T cells,CD40LG,included
+CD4+ T cells,ICOS,included
+CD4+ T cells,CD28,included
+CD4+ T cells,TRAT1,included
+Regulatory T cells,FOXP3,included
+Regulatory T cells,IL2RA,included
+Regulatory T cells,CTLA4,included
+Regulatory T cells,IKZF2,included
+Regulatory T cells,TNFRSF18,included
+NK cells,KLRD1,included
+NK cells,KLRF1,included
+NK cells,NCR1,included
+NK cells,GNLY,included
+NK cells,KIR2DL3,included
+B cells,MS4A1,included
+B cells,CD79A,included
+B cells,CD79B,included
+B cells,CD19,included
+M1 macrophages,NOS2,included
+M1 macrophages,IL1B,included
+M1 macrophages,TNF,included
+M1 macrophages,CXCL9,included
+M1 macrophages,CXCL11,included
+M2 macrophages,CD163,included
+M2 macrophages,MRC1,included
+M2 macrophages,MSR1,included
+M2 macrophages,IL10,included
+M2 macrophages,TGFB1,included
+Dendritic cells,ITGAX,included
+Dendritic cells,CLEC9A,included
+Dendritic cells,LAMP3,included
+Dendritic cells,CD1C,included
+Dendritic cells,FCER1A,included
+Neutrophils,FCGR3B,included
+Neutrophils,CSF3R,included
+Neutrophils,S100A8,included
+Neutrophils,S100A9,included
+Neutrophils,CXCR2,included
+Immune checkpoints,PDCD1,included
+Immune checkpoints,CD274,included
+Immune checkpoints,CTLA4,included
+Immune checkpoints,LAG3,included
+Immune checkpoints,HAVCR2,included
+Immune checkpoints,TIGIT,included
+Interferon signature,IFNG,included
+Interferon signature,STAT1,included
+Interferon signature,CXCL10,included
+Interferon signature,IDO1,included
+Interferon signature,HLA-DRA,included

@@ -1,0 +1,32 @@
+﻿Quantity,Value,Uncertainty or note
+"External C-index, CGGA-325 WHO II–III, cohort z",MRG-4 0.769 vs Model A 0.664,"bootstrap 95% CI over patients, 2,000 resamples: MRG-4 0.722–0.812, Model A 0.610–0.715; under discovery-SD scaling 0.731 (0.682–0.776) vs 0.620; five-gene version 0.755"
+Difference in external C-index (MRG-4 − Model A),+0.105,"95% CI 0.054–0.162; paired bootstrap, 2,000 resamples, *P* < 0.0001"
+External C-index under rank-inverse-normal harmonisation,0.744 vs 0.676,difference +0.068; ranking unchanged
+"Within-cohort regression slope, per 1 SD of the index",0.548,"95% CI 0.400–0.697; computed on the cohort-standardised index, so it equals the cohort's unadjusted per-SD log HR and is not a calibration test"
+"3-year calibration by tertile, predicted / observed",Q1 0.867/0.981; Q2 0.766/0.835; Q3 0.397/0.292,baseline hazard re-estimated in the validation cohort
+"Integrated Brier score, 6–60 months",0.287 vs 0.316,MRG-4 lower (better)
+"Continuous NRI and IDI, 3-year mortality","NRI −0.291, IDI −0.047","computed on **n = 160, 50 events**, not the 172 used for discrimination and net benefit, because absolute risks exist only where both a coefficient set and a baseline hazard are defined; the 5-year values use n = 156. The sign is not robust to the risk scale: with the baseline hazard re-estimated in the validation cohort NRI is −0.396, and with the coefficients refitted in the validation cohort it is **+0.440** (IDI +0.041)"
+"Category-based NRI (within-model risk tertiles), 3 years",+0.429,"scale-independent by construction, and reported for completeness; it is not a validated reclassification statistic and is not used in any claim"
+"Nested 10-fold CV, Model A pipeline",0.832 ± 0.021,selection repeated inside folds
+"Nested 10-fold CV, full MRG-4 procedure",0.731 ± 0.023,selection repeated inside folds; the conservative internal figure
+"Nested 10-fold CV, four genes fixed, coefficients refit in fold",0.786 ± 0.014,intermediate case
+"Non-nested 10-fold CV, gene set fixed",0.796 ± 0.019,the same figure as the 10-fold CV row of Table 4; optimistic for both models
+"26-gene LASSO apparent C-index, TCGA",0.870,"quoted from the derivation run and printed in Figure 3B; the only value in Table 4 that cannot be rebuilt from the deposited objects, because the 26-gene coefficient vector at the 1-SE alpha was not retained. Its cross-validated (0.777) and external (0.726) counterparts are rebuildable and are the values used in the text"
+"Standard deviation of each score, TCGA-LGG",MRG-4 0.903 (n = 510); Model A 1.062 (n = 502),the per-SD denominators of every Table 3 hazard ratio; both recomputed from the deposited per-patient scores (Supplementary Tables S2 and S4); the Model A value is 1.061719
+"Stability threshold π ≥ 0.75, Meinshausen–Bühlmann bound","E[V] ≤ 32.4 permitted false selections (q = 38, the largest selected-gene count in the 200 resamples; p = 89)","27.0 at π = 0.80 and 40.6 at π = 0.70; the bound is non-binding, so the threshold carries no useful false-discovery control of its own. π sensitivity: 11 genes at 0.70, 5 at 0.75, and exactly the four MRG-4 genes at 0.80"
+"MRG-4 against 3,000 random 4-gene panels, penalisation matched (unpenalised)","0.68% of the 2,287 valid panels match or beat it","713 draws failed to fit; null mean 0.638, SD 0.069, 95th pct 0.737; independent seed 2,213 valid, 0.68%; at penalisation 1.0, 2,264 valid and 0.54%"
+"Model A against 3,000 random 25-gene panels, penalisation matched (λ = 1.0)",97.8% of the 348 valid panels match or beat it,"2,652 draws failed to fit; null mean 0.731, SD 0.024; independent seed 358 valid, 97.8%. **Unpenalised** panels: 354 valid, null mean 0.662, 49.3% match or beat it, i.e. Model A is not distinguishable from an arbitrary panel under no penalty"
+"Leave-one-gene-out, external C-index",−BMP1 0.747; −KIF15 0.741; −TRAF3 0.751; −PDGFA 0.722,"all four below the full-model 0.769 under cohort z; under discovery-SD scaling the full model is 0.731 and removing PDGFA **raises** it to 0.739, so the property is convention-dependent"
+"Univariate screen, Benjamini–Hochberg over 89 genes",50 of 89 at q < 0.05,56 at raw *P* < 0.05; 57 at q < 0.10; 64 at q < 0.20
+BH q for the four MRG-4 genes,PDGFA 7.7 × 10⁻¹³; BMP1 1.4 × 10⁻¹¹; KIF15 7.5 × 10⁻¹⁰; TRAF3 0.056,TRAF3 does not survive at q < 0.05
+"Adjusted HR per SD, CGGA, IDH + grade",1.52,"1.29–1.79, *P* = 6.2 × 10⁻⁷; n = 171 (1 patient has no IDH call)"
+"Adjusted HR per SD, CGGA, + 1p/19q (n = 170)",1.33,"1.13–1.57, *P* = 7.8 × 10⁻⁴; 2 patients missing codeletion; deposited as Supplementary Table S15"
+"Adjusted HR per SD, CGGA, + IDH + grade + 1p/19q + MGMT (n = 154, 83 deaths)",1.37,"1.14–1.65, *P* = 6.5 × 10⁻⁴; 18 patients missing one of these covariates"
+"Adjusted HR per SD, CGGA, + IDH + grade + 1p/19q + MGMT + treatment (n = 146, 78 deaths)",1.41,"1.17–1.71, *P* = 3.4 × 10⁻⁴; 26 patients missing at least one covariate. Fitted with treatment alone the value is 1.80 (n = 163, 85 deaths)"
+"Adjusted HR per SD, TCGA, IDH + grade",1.67,"1.31–2.13, *P* = 2.8 × 10⁻⁵"
+"Adjusted HR per SD, TCGA, within IDH-mutant, + 1p/19q + grade",1.70,"1.27–2.26, *P* = 3.0 × 10⁻⁴; n = 410, 73 deaths (the IDH-mutant subset is 411 patients before the one non-codel patient without a grade is removed)"
+MRG-4 added to a 20-gene proliferation score,LR χ² = 14.9,*P* = 1.1 × 10⁻⁴; proliferation score alone C = 0.710
+MRG-4 added to a 15-gene extracellular-matrix score,**not performed**,"the member genes of that score are not recorded in the deposited pipeline, so the comparison cannot be rebuilt from the deposit; reported in the Limitations"
+Mouse induction log₂FC against human univariate log hazard ratio,ρ = −0.320,"*P* = 0.0023, n = 89; direction opposite to the naive expectation"
+"Stability selection, seed dependence",shared core = the five-gene set,"original run selected 5 genes, replication selected 7 (adds PBX2, PPM1M)"
+Patients at risk at 36 / 60 months (TCGA),157 / 66,limits stable discrimination estimates beyond five years

@@ -1,0 +1,16 @@
+﻿item,detail,value,note
+系数,BMP1 (标准值),0.2581639216,对 cBioPortal z 谱值加权求和
+系数,KIF15 (标准值),0.4635562110,对 cBioPortal z 谱值加权求和
+系数,TRAF3 (标准值),-0.2378867676,对 cBioPortal z 谱值加权求和
+系数,PDGFA (标准值),0.4795327193,对 cBioPortal z 谱值加权求和
+表达谱（标准值）,z-score profile,lgg_tcga_pan_can_atlas_2018_rna_seq_v2_mrna_median_all_sample_Zscores,模型直接定义在该公共已沉积对象上；作者未自估标准化常数
+表达谱（原始）,raw profile,lgg_tcga_pan_can_atlas_2018_rna_seq_v2_mrna,用于检验两者关系；与 z 谱非同一分布（见下）
+样本清单,sample list,lgg_tcga_pan_can_atlas_2018_rna_seq_v2_mrna,cBioPortal 该研究下全部有 mRNA 数据的样本
+评分均值（发现队列）,TCGA-LGG n=510,-0.001999,未标准化评分的中心
+评分 SD（发现队列）,TCGA-LGG n=510,0.903029,per-SD 分母；与正文 0.903 一致
+评分 SD（验证队列）,CGGA-325 WHO II-III n=172,0.590773,与正文 0.591 一致
+基线累积风险,H0(t),Table S19,Breslow 估计，取自 lp 中心化后的冻结模型（510 例）
+原始/z 关系,BMP1 的 Pearson r,0.9501,两者非同一分布，故跨平台的绝对风险不可迁移（正文已声明只用相对量）
+原始/z 关系,KIF15 的 Pearson r,0.8193,两者非同一分布，故跨平台的绝对风险不可迁移（正文已声明只用相对量）
+原始/z 关系,TRAF3 的 Pearson r,0.9465,两者非同一分布，故跨平台的绝对风险不可迁移（正文已声明只用相对量）
+原始/z 关系,PDGFA 的 Pearson r,0.8695,两者非同一分布，故跨平台的绝对风险不可迁移（正文已声明只用相对量）

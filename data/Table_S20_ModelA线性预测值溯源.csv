@@ -1,0 +1,3 @@
+﻿quantity,n,check,note
+archived_ModelA_LP,n=510,r_vs_recompute_zfirst=0.914834,Spearman 0.908369
+archived_ModelA_LP,n=510,r_vs_recompute_weighting_deposited_z=0.914909,直接对已沉积 z 值加权

@@ -1,0 +1,9 @@
+﻿Model,HR,CI_low,CI_high,P,n,Deaths,Missing
+unadjusted,1.733,1.494,2.011,4.17e-13,172,90,0
++IDH + grade,1.517,1.288,1.787,6.19e-07,171,90,1
++1p/19q codeletion,1.508,1.294,1.759,1.55e-07,170,90,2
++IDH + grade + 1p/19q,1.329,1.126,1.57,0.00078,170,90,2
++MGMT methylation,1.776,1.504,2.096,1.2e-11,156,83,16
++radiotherapy or chemotherapy,1.795,1.538,2.095,1.1e-13,163,85,9
++IDH + grade + 1p/19q + MGMT,1.373,1.144,1.648,0.000652,154,83,18
++IDH + grade + 1p/19q + MGMT + treatment,1.412,1.169,1.706,0.000342,146,78,26

@@ -1,0 +1,30 @@
+﻿Section,Item,Checklist item,Location in this manuscript
+Title,1,Identify as a study developing and validating a prognostic model,"Title: ""Parsimony over panel size: a stability-selected four-gene mitoxyperilysis-related score is an independent, externally reproduced prognostic factor in lower-grade glioma"""
+Abstract,2,"Summarise objectives, data sources, participants, model, validation, performance, interpretation",Abstract (Background / Methods / Results / Conclusions)
+Background,3a,"Explain the medical context and rationale, including whether the model was developed or validated",1. Introduction paras 1-4
+Background,3b,"Specify the objectives, hypotheses and what was added",1. Introduction final paragraph (two-layered design; novelty relative to [17] stated)
+Sources of data,4a,"Describe the sources of data (prospective or retrospective), eligibility, and setting",2.1 Data sources and cohort assembly; 2.10; 2.11
+Sources of data,4b,Specify key dates,Section 2.1 (data retrieved 4 October 2026; CGGA MD5 sums given); 2.11 (CELLxGENE census release 2025-11-17)
+Participants,5a,"Describe the eligibility criteria, treatments received, and how and when participants were identified","2.1; treatment variables (radiotherapy, chemotherapy) added in 2.7 and reported in 3.4 with their own deposited models (Supplementary Table S15)"
+Participants,5b,Describe the outcomes to be predicted,2.1 (overall survival; time and status)
+Outcome,6,Define the outcome and how and when it was measured,2.1 (OS in months; death status)
+Predictors,7,Define all predictors and how they were measured,2.2 (MRG panel); 2.4 (MRG-4); Table 2 (MRG-4 coefficients) and Supplementary Table S12 (Model A coefficients)
+Sample size,8,Explain how the sample size was determined and the number of events per variable,"2.3 (EPV = 5.0 for Model A) and 2.4 (EPV = 31.2 for MRG-4); 3.2 and 3.3. No a priori sample-size calculation was performed: both cohorts are complete public resources. Section 2.8 now states the precision the validation cohort supports (90 deaths; the paired-bootstrap 95% CI for the C-index difference spans 0.054-0.162, i.e. the design resolves differences of roughly 0.05 or larger)"
+Missing data,9,Describe how missing data were handled,"2.1 (8 patients without complete annotation excluded from adjusted analyses, explained; the identity of the single patient without grade is given); 2.7 (1p/19q, MGMT and treatment availability stated with counts)"
+Statistical analysis methods,10a,Describe how predictors were handled in the analyses,"2.3, 2.4, 2.7 (two standardisation conventions plus rank-inverse-normal harmonisation). Section 2.7 now defines the ""per SD"" convention once and uses it consistently"
+Statistical analysis methods,10b,"Specify how the model was validated (type, method and justification)","2.7 (external validation in CGGA-325 with frozen coefficients); 2.4 (two nested cross-validations); 2.8 (paired bootstrap, randomised-panel benchmark with penalisation matched to the comparator)"
+Statistical analysis methods,10c,Describe how the model performance was assessed,"2.8 (C-index with bootstrap CI, time-dependent AUC, calibration slope, Brier score, NRI, IDI, decision curve analysis with a clinical comparator). Section 3.6 now states the denominator for each of these quantities"
+Statistical analysis methods,10d,Describe adjustments for overfitting / optimism,2.4 (nested cross-validation with selection repeated inside folds)
+Model performance,11a,Report performance with confidence intervals,"Table 3, Table 4 and Supplementary Table S30. Section 3.6 now reports a bootstrap 95% CI for every external C-index (MRG-4 0.769, 0.722-0.812; Model A 0.664, 0.610-0.715; discovery-SD 0.731, 0.682-0.776), not only for the difference"
+Model performance,11b,Report calibration,"Section 2.7 (methods) and Section 3.6 (results): slope 0.548 (0.400-0.697); 3-year tertile calibration; Brier/IBS; Figure 5C,D"
+Model performance,11c,Report heterogeneity of performance across subgroups,Supplementary Table S29 (stratified log-rank for both models in both cohorts); Section 3.7
+Model updating,12,"If the model was recalibrated, report the method and results",Section 2.7 (methods) and Section 3.6 (results): the baseline hazard was re-estimated in the validation cohort because the discovery matrix is z-scored while CGGA-325 is on a raw RSEM scale; no regression coefficient was updated
+Comparison with other models,13,Report comparison with other models if performed,"Section 3.6 (25-gene model, 26-gene LASSO model, 4-variable clinical model in DCA). Section 3.12 reports the proliferation-score comparison; the 15-gene extracellular-matrix comparison cannot be reported because that score's member genes are not recorded anywhere in the deposited pipeline (see Section 3.12)"
+Interpretation,14,"Discuss the results with reference to objectives, limitations and implications","4. Discussion, Limitations and Conclusion"
+Implications,15,Discuss potential clinical use of the model and caveats,Section 3.6 (no clinical utility claimed); Discussion para 5; Limitations items 3 and 6
+Limitations,16-17,Discuss limitations and generalisability,"Limitations (thirteen items), including the single external cohort, the event-rate disparity, the glioblastoma-only single-cell localisation, the non-reporting of the 15-gene matrix comparison, and the finding that the stability threshold carries no error-rate control"
+Registration,18,State whether the study protocol is registered,None of the analyses were preregistered; the analysis code deposited with the manuscript was fixed before the validation cohort was opened (stated in Section 1 and 2.8)
+Data availability,19,State where the data and code can be obtained,Availability of data and materials; Section 2.12
+Funding,20-21,State the source of funding and the role of funders,Declarations (Funding)
+Role of the funder,22,Describe the role of the funder,No specific funding (Declarations)
+Supplementary information,23,Provide supplementary information,"Supplementary Tables S1–S30; Figures 1–8 (composite, 27 panels)"

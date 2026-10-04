@@ -1,0 +1,11 @@
+﻿Gene,High_n,High_total,High_pct,Low_n,Low_total,Low_pct,Fisher_P,Direction
+EGFR,34,255,13.3,1,255,0.4,6.88e-10,enriched in high-risk
+PTEN,22,255,8.6,1,255,0.4,3.71e-06,enriched in high-risk
+NF1,22,255,8.6,9,255,3.5,0.0247,enriched in high-risk
+PIK3CA,24,255,9.4,18,255,7.1,0.421,no difference
+FUBP1,20,255,7.8,26,255,10.2,0.44,no difference
+TP53,116,255,45.5,130,255,51.0,0.249,no difference
+NOTCH1,10,255,3.9,27,255,10.6,0.00564,enriched in low-risk
+ATRX,82,255,32.2,110,255,43.1,0.0135,enriched in low-risk
+CIC,31,255,12.2,76,255,29.8,1.3e-06,enriched in low-risk
+IDH1,157,255,61.6,234,255,91.8,2.29e-16,enriched in low-risk

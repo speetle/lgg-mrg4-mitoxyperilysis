@@ -1,0 +1,12 @@
+﻿quantity,definition,value,note
+TCGA apparent C-index,archived LP,0.8211,Table 4 现用值 0.821
+TCGA apparent C-index,deposited-coefficient LP,0.8122,r=0.9148 / Spearman 0.9084 vs archived
+TCGA adjusted HR per SD,archived LP,2.348 (1.857-2.968),P=1.01e-12
+TCGA adjusted HR per SD,deposited-coefficient LP,2.260 (1.694-3.014),P=2.91e-08
+CGGA external C-index,Model A (deposited coefficients),0.6637,n=172
+CGGA external C-index,MRG-4,0.7688,n=172
+TCGA apparent C-index,"MRG-4, recomputed from the deposited per-patient scores",0.7938,Table 4 现用值 0.794；可由 Table_S4 的 MRG4_score 直接重算
+"MRG-4 apparent C-index, second internal object",parsimonious_results (not deposited),0.7926,同一四基因拟合的第二个结果对象报 0.7926，与 mrg4_results 的 0.7943 差 0.0017，与 S4 重算值 0.7938 差 0.0012；正文统一引用 0.794（Table 4 与 3.3 节），任何结论都不依赖这 0.0017
+SD of the Model A score,"TCGA-LGG complete annotation, n = 502",1.061719,Table 3 的 per-SD 分母；由 Table_S2 的 MRG_risk_score 重算，且 exp(coef × SD) = 2.9266 与 Table 3 未校正行的 2.927 吻合
+SD of the Model A score,"TCGA-LGG all, n = 510",1.057266,同一列在全 510 例上的 SD
+SD of the MRG-4 score,"TCGA-LGG, n = 510",0.903031,Table 3 的 per-SD 分母；与 Table_S17 的 0.903029 一致

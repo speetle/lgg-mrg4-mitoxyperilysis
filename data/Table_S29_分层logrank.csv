@@ -1,0 +1,21 @@
+﻿Cohort,Model,Stratum,n,Deaths,log-rank P
+TCGA-LGG,Model A,All patients,502,123,2.14 x 10^-10
+TCGA-LGG,Model A,IDH-mutant,410,73,9.64 x 10^-4
+TCGA-LGG,Model A,IDH-wildtype,92,50,0.463
+TCGA-LGG,Model A,WHO grade 2,241,36,0.0333
+TCGA-LGG,Model A,WHO grade 3,261,87,2.02 x 10^-6
+TCGA-LGG,MRG-4,All patients,502,123,2.29 x 10^-10
+TCGA-LGG,MRG-4,IDH-mutant,410,73,2.79 x 10^-3
+TCGA-LGG,MRG-4,IDH-wildtype,92,50,6.77 x 10^-3
+TCGA-LGG,MRG-4,WHO grade 2,241,36,0.0550
+TCGA-LGG,MRG-4,WHO grade 3,261,87,6.07 x 10^-6
+CGGA-325,Model A,WHO II-III (all),172,90,2.58 x 10^-4
+CGGA-325,Model A,IDH-mutant,127,58,6.97 x 10^-2
+CGGA-325,Model A,IDH-wildtype,44,32,0.355
+CGGA-325,Model A,WHO grade II,98,36,0.522
+CGGA-325,Model A,WHO grade III,74,54,0.0191
+CGGA-325,MRG-4,WHO II-III (all),172,90,6.61 x 10^-11
+CGGA-325,MRG-4,IDH-mutant,127,58,2.22 x 10^-6
+CGGA-325,MRG-4,IDH-wildtype,44,32,2.17 x 10^-3
+CGGA-325,MRG-4,WHO grade II,98,36,1.83 x 10^-3
+CGGA-325,MRG-4,WHO grade III,74,54,3.07 x 10^-5

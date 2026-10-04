@@ -1,0 +1,326 @@
+﻿Patient_ID,has_OS,grade_II_III,in_313,in_172,exclusion_reason
+CGGA_1001,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1006,True,True,True,True,
+CGGA_1007,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1011,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1015,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1019,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1022,True,True,True,True,
+CGGA_1023,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1024,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1026,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1034,True,True,True,True,
+CGGA_1035,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1039,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1045,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1049,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1052,False,True,False,False,missing overall-survival time
+CGGA_1072,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1077,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1078,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1079,True,True,True,True,
+CGGA_1081,True,True,True,True,
+CGGA_1083,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1091,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1109,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1124,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1139,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1140,True,True,True,True,
+CGGA_1145,True,True,True,True,
+CGGA_1171,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1177,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1180,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1188,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1214,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1216,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1218,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1224,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1234,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1237,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1240,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1251,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1258,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1263,True,True,True,True,
+CGGA_1270,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1271,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1272,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1280,True,True,True,True,
+CGGA_1281,True,True,True,True,
+CGGA_1283,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1284,True,True,True,True,
+CGGA_1285,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1292,True,True,True,True,
+CGGA_1299,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1301,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1313,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1320,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1332,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1338,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1340,True,True,True,True,
+CGGA_1342,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1343,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1346,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1370,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1393,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1408,True,True,True,True,
+CGGA_1411,True,True,True,True,
+CGGA_235,True,True,True,True,
+CGGA_269,True,True,True,True,
+CGGA_272,True,False,True,False,grade IV (outside primary validation set)
+CGGA_274,True,False,True,False,grade IV (outside primary validation set)
+CGGA_276,True,True,True,True,
+CGGA_309,True,False,True,False,grade IV (outside primary validation set)
+CGGA_318,True,False,True,False,grade IV (outside primary validation set)
+CGGA_323,True,True,True,True,
+CGGA_330,True,True,True,True,
+CGGA_413,True,False,True,False,grade IV (outside primary validation set)
+CGGA_426,True,True,True,True,
+CGGA_448,True,True,True,True,
+CGGA_483,True,False,True,False,grade IV (outside primary validation set)
+CGGA_488,True,True,True,True,
+CGGA_493,True,True,True,True,
+CGGA_494,True,False,True,False,grade IV (outside primary validation set)
+CGGA_495,True,False,True,False,grade IV (outside primary validation set)
+CGGA_499,True,False,True,False,grade IV (outside primary validation set)
+CGGA_525,True,False,True,False,grade IV (outside primary validation set)
+CGGA_541,True,True,True,True,
+CGGA_564,True,True,True,True,
+CGGA_565,True,True,True,True,
+CGGA_578,True,True,True,True,
+CGGA_599,True,True,True,True,
+CGGA_604,True,False,True,False,grade IV (outside primary validation set)
+CGGA_616,True,True,True,True,
+CGGA_624,True,False,True,False,grade IV (outside primary validation set)
+CGGA_630,True,True,True,True,
+CGGA_633,True,True,True,True,
+CGGA_638,True,True,True,True,
+CGGA_643,True,True,True,True,
+CGGA_658,True,False,True,False,grade IV (outside primary validation set)
+CGGA_659,True,True,True,True,
+CGGA_661,False,True,False,False,missing overall-survival time
+CGGA_669,True,False,True,False,grade IV (outside primary validation set)
+CGGA_676,True,False,True,False,grade IV (outside primary validation set)
+CGGA_678,True,True,True,True,
+CGGA_679,True,False,True,False,grade IV (outside primary validation set)
+CGGA_680,True,False,True,False,grade IV (outside primary validation set)
+CGGA_681,True,False,True,False,grade IV (outside primary validation set)
+CGGA_700,True,False,True,False,grade IV (outside primary validation set)
+CGGA_727,True,True,True,True,
+CGGA_731,True,False,True,False,grade IV (outside primary validation set)
+CGGA_732,False,True,False,False,missing overall-survival time
+CGGA_766,True,True,True,True,
+CGGA_773,True,False,True,False,grade IV (outside primary validation set)
+CGGA_782,True,False,True,False,grade IV (outside primary validation set)
+CGGA_789,True,False,True,False,grade IV (outside primary validation set)
+CGGA_791,True,True,True,True,
+CGGA_796,True,True,True,True,
+CGGA_802,True,False,True,False,grade IV (outside primary validation set)
+CGGA_804,True,False,True,False,grade IV (outside primary validation set)
+CGGA_807,True,True,True,True,
+CGGA_808,True,False,True,False,grade IV (outside primary validation set)
+CGGA_837,True,False,True,False,grade IV (outside primary validation set)
+CGGA_842,True,False,True,False,grade IV (outside primary validation set)
+CGGA_848,True,False,True,False,grade IV (outside primary validation set)
+CGGA_850,True,False,True,False,grade IV (outside primary validation set)
+CGGA_859,True,False,True,False,grade IV (outside primary validation set)
+CGGA_871,True,True,True,True,
+CGGA_876,True,False,True,False,grade IV (outside primary validation set)
+CGGA_878,True,False,True,False,grade IV (outside primary validation set)
+CGGA_902,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D02,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D03,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D06,False,True,False,False,missing overall-survival time
+CGGA_D09,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D11,True,True,True,True,
+CGGA_D16,True,True,True,True,
+CGGA_D18,False,True,False,False,missing overall-survival time
+CGGA_D26,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D32,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D35,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D36,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D37,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D44,True,True,True,True,
+CGGA_D51,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D57,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D58,True,True,True,True,
+CGGA_342,True,False,True,False,grade IV (outside primary validation set)
+CGGA_719,True,False,True,False,grade IV (outside primary validation set)
+CGGA_J030,True,True,True,True,
+CGGA_J130,True,True,True,True,
+CGGA_1005,True,True,True,True,
+CGGA_1013,True,True,True,True,
+CGGA_1020,True,True,True,True,
+CGGA_1027,True,True,True,True,
+CGGA_1031,True,True,True,True,
+CGGA_1046,True,True,True,True,
+CGGA_1050,False,True,False,False,missing overall-survival time
+CGGA_1060,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1061,True,True,True,True,
+CGGA_1068,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1094,True,True,True,True,
+CGGA_1105,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1113,True,True,True,True,
+CGGA_1129,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1136,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1146,True,True,True,True,
+CGGA_1160,True,True,True,True,
+CGGA_1170,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1175,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1189,True,True,True,True,
+CGGA_1190,True,True,True,True,
+CGGA_1215,True,True,True,True,
+CGGA_1219,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1227,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1231,True,True,True,True,
+CGGA_1287,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1307,True,True,True,True,
+CGGA_1314,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1322,True,True,True,True,
+CGGA_1324,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1329,True,True,True,True,
+CGGA_1330,True,True,True,True,
+CGGA_1374,True,True,True,True,
+CGGA_1375,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1381,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1384,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1388,True,True,True,True,
+CGGA_1394,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1406,True,True,True,True,
+CGGA_1409,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1412,True,False,True,False,grade IV (outside primary validation set)
+CGGA_171,False,True,False,False,missing overall-survival time
+CGGA_236,True,True,True,True,
+CGGA_241,True,True,True,True,
+CGGA_245,True,True,True,True,
+CGGA_251,True,True,True,True,
+CGGA_252,True,True,True,True,
+CGGA_254,True,True,True,True,
+CGGA_256,True,True,True,True,
+CGGA_261,True,True,True,True,
+CGGA_267,True,True,True,True,
+CGGA_273,True,True,True,True,
+CGGA_283,True,True,True,True,
+CGGA_300,True,True,True,True,
+CGGA_314,True,True,True,True,
+CGGA_333,True,True,True,True,
+CGGA_337,True,True,True,True,
+CGGA_374,True,False,True,False,grade IV (outside primary validation set)
+CGGA_400,True,True,True,True,
+CGGA_431,True,True,True,True,
+CGGA_446,True,True,True,True,
+CGGA_458,True,True,True,True,
+CGGA_479,True,True,True,True,
+CGGA_485,True,True,True,True,
+CGGA_490,True,True,True,True,
+CGGA_491,True,False,True,False,grade IV (outside primary validation set)
+CGGA_501,True,True,True,True,
+CGGA_502,True,True,True,True,
+CGGA_510,True,True,True,True,
+CGGA_538,False,True,False,False,missing overall-survival time
+CGGA_543,True,True,True,True,
+CGGA_545,True,False,True,False,grade IV (outside primary validation set)
+CGGA_551,True,True,True,True,
+CGGA_560,True,True,True,True,
+CGGA_580,True,True,True,True,
+CGGA_591,True,True,True,True,
+CGGA_598,True,True,True,True,
+CGGA_601,True,True,True,True,
+CGGA_603,True,True,True,True,
+CGGA_605,True,True,True,True,
+CGGA_607,True,True,True,True,
+CGGA_632,True,True,True,True,
+CGGA_635,True,True,True,True,
+CGGA_641,True,True,True,True,
+CGGA_642,True,True,True,True,
+CGGA_655,True,True,True,True,
+CGGA_662,True,True,True,True,
+CGGA_666,True,True,True,True,
+CGGA_671,True,True,True,True,
+CGGA_675,True,True,True,True,
+CGGA_685,True,True,True,True,
+CGGA_689,True,True,True,True,
+CGGA_694,True,True,True,True,
+CGGA_698,True,True,True,True,
+CGGA_704,True,True,True,True,
+CGGA_710,True,False,True,False,grade IV (outside primary validation set)
+CGGA_715,True,True,True,True,
+CGGA_725,True,True,True,True,
+CGGA_747,True,False,True,False,grade IV (outside primary validation set)
+CGGA_752,True,True,True,True,
+CGGA_757,True,True,True,True,
+CGGA_760,True,True,True,True,
+CGGA_761,True,False,True,False,grade IV (outside primary validation set)
+CGGA_762,True,True,True,True,
+CGGA_785,True,True,True,True,
+CGGA_812,True,True,True,True,
+CGGA_815,True,True,True,True,
+CGGA_818,True,True,True,True,
+CGGA_822,True,False,True,False,grade IV (outside primary validation set)
+CGGA_834,True,True,True,True,
+CGGA_835,True,True,True,True,
+CGGA_838,True,True,True,True,
+CGGA_843,True,True,True,True,
+CGGA_856,True,True,True,True,
+CGGA_858,True,True,True,True,
+CGGA_864,True,True,True,True,
+CGGA_884,True,True,True,True,
+CGGA_892,True,True,True,True,
+CGGA_893,True,True,True,True,
+CGGA_898,True,True,True,True,
+CGGA_899,True,False,True,False,grade IV (outside primary validation set)
+CGGA_904,True,True,True,True,
+CGGA_905,True,True,True,True,
+CGGA_908,True,True,True,True,
+CGGA_909,True,True,True,True,
+CGGA_D04,True,True,True,True,
+CGGA_D07,True,True,True,True,
+CGGA_D14,False,True,False,False,missing overall-survival time
+CGGA_D15,True,True,True,True,
+CGGA_D20,True,True,True,True,
+CGGA_D21,True,True,True,True,
+CGGA_D24,True,True,True,True,
+CGGA_D27,True,True,True,True,
+CGGA_D29,True,True,True,True,
+CGGA_D33,True,True,True,True,
+CGGA_D34,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D38,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D39,False,True,False,False,missing overall-survival time
+CGGA_D40,True,True,True,True,
+CGGA_D45,True,True,True,True,
+CGGA_D46,True,True,True,True,
+CGGA_D47,True,True,True,True,
+CGGA_D48,True,True,True,True,
+CGGA_D52,True,True,True,True,
+CGGA_D56,True,True,True,True,
+CGGA_D59,False,False,False,False,missing overall-survival time
+CGGA_277,True,True,True,True,
+CGGA_518,True,False,True,False,grade IV (outside primary validation set)
+CGGA_J023,True,True,True,True,
+CGGA_J024,True,True,True,True,
+CGGA_J042,True,True,True,True,
+CGGA_J100,False,False,False,False,missing overall-survival time
+CGGA_1004,True,True,True,True,
+CGGA_1008,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1053,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1059,True,True,True,True,
+CGGA_1070,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1071,True,True,True,True,
+CGGA_1073,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1074,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1095,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1099,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1114,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1116,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1118,True,True,True,True,
+CGGA_1119,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1197,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1246,True,True,True,True,
+CGGA_1275,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1450,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1460,True,False,True,False,grade IV (outside primary validation set)
+CGGA_1475,True,False,True,False,grade IV (outside primary validation set)
+CGGA_243,True,True,True,True,
+CGGA_247,True,True,True,True,
+CGGA_738,True,True,True,True,
+CGGA_759,True,False,True,False,grade IV (outside primary validation set)
+CGGA_D30,True,False,True,False,grade IV (outside primary validation set)
