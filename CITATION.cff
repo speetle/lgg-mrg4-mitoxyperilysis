@@ -14,7 +14,7 @@ contact:
 version: "v1.0.0"
 date-released: "2026-10-05"
 license: MIT
-repository-code: "https://github.com/lgg-mrg4-mitoxyperilysis"
+repository-code: "https://github.com/speetle/lgg-mrg4-mitoxyperilysis"
 keywords:
   - lower-grade glioma
   - prognostic model
