@@ -1,10 +1,10 @@
 # MRG-4 and Model A — analysis code and derived data
 
 Code and derived data for the manuscript on a mitoxyperilysis-related gene (MRG)
-prognostic score in lower-grade glioma, submitted to *Gene*.
+prognostic score in lower-grade glioma.
 
 - **Author:** Bin Lian (ORCID [0000-0002-1477-9137](https://orcid.org/0000-0002-1477-9137))
-- **Affiliation:** School of Health, Guangzhou Vocational and Technical University of Science and Technology, No. 1038 Guangcong 9th Road, Zhongluotan, Baiyun District, Guangzhou 510550, Guangdong, China
+- **Affiliation:** School of Health Sciences, Guangzhou Vocational University of Science and Technology, No. 1038 Guangcong 9th Road, Zhongluotan, Baiyun District, Guangzhou 510550, Guangdong, China
 - **Correspondence:** drmilo@gkd.edu.cn
 - **Release:** v1.0.0 — 2026-10-05
 
