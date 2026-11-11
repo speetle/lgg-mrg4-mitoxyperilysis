@@ -1,5 +1,38 @@
 # Changelog
 
+## v1.1.0 — 2026-11-11
+
+Deposits the analyses added during revision rounds 2–4, so that every number in
+Supplementary Table S38 now has a script and a recorded seed. No value in any
+previously deposited table changed.
+
+### Added
+
+- `code/analysis/refit_bootstrap.py` — 500 patient-level resamples with both
+  coefficient vectors refitted inside each draw; C-index difference and the
+  refitting interaction.
+- `code/analysis/refit_oob_cross.py` — out-of-bag evaluation and cross-cohort
+  refitting (fit in one CGGA cohort, score in the other).
+- `code/analysis/splithalf.py` — 200 random half-splits, pooled and within-cohort.
+- `code/analysis/calib_v14.py`, `code/analysis/calib_check_325.py` — calibration
+  at 12/24/36/60 months, ICI, recalibration interaction and continuous NRI in
+  CGGA-693; plus the correction that only `MRG4_lp_cohort_z` reproduces the
+  frozen Breslow baseline.
+- `code/analysis/noise_control.py` — 25-parameter null (4 real genes + 21
+  independently permuted columns), 300 resamples, and within-cohort halves.
+- `code/analysis/round1_tables.py` — decision curves under three calibration
+  states and the four-variable clinical model (S37).
+- `replication/analysis_*.json` — nine machine-readable result records.
+
+### Changed
+
+- All seven scripts now resolve inputs through `MRG4_CGGA`, `MRG4_DERIVED` and
+  `MRG4_OUT` instead of a hard-coded local path; all compile cleanly.
+- `README.md` — v1.1.0 release line, reproduction recipe, and the explicit
+  linear-predictor scale caveat.
+- `CITATION.cff` — version 1.1.0.
+- `SHA256SUMS.txt` and `data/SHA256SUMS.txt` — regenerated over the new file set.
+
 ## v1.0.1 — 2026-11-11
 
 Adds the replication analysis that the article now reports, and repairs three

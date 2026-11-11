@@ -6,7 +6,7 @@ prognostic score in lower-grade glioma.
 - **Author:** Bin Lian (ORCID [0000-0002-1477-9137](https://orcid.org/0000-0002-1477-9137))
 - **Affiliation:** School of Health Sciences, Guangzhou Vocational University of Science and Technology, No. 1038 Guangcong 9th Road, Zhongluotan, Baiyun District, Guangzhou 510550, Guangdong, China
 - **Correspondence:** drmilo@gkd.edu.cn
-- **Release:** v1.0.1 — 2026-11-11 (supersedes v1.0.0 of 2026-10-05; see `CHANGELOG.md`)
+- **Release:** v1.1.0 — 2026-11-11 (supersedes v1.0.1; see `CHANGELOG.md`)
 
 ## What is here
 
@@ -131,3 +131,27 @@ and the "mitoxyperilysis-related" label is inherited from the screening panel
 rather than from any measurement of lysis. Replication in a second CGGA cohort is
 not an independent consortium: both cohorts come from the same resource, and the
 limitations section of the article should be read before reusing the score.
+
+
+## Revision-2 controls (v1.1.0)
+
+Seven scripts added in `code/analysis/` reproduce the controls introduced after
+the second full revision round: refit bootstrap (coefficient uncertainty),
+out-of-bag and cross-cohort refitting, pooled and within-cohort split halves,
+four-horizon calibration with continuous NRI, the parameter-matched null
+(4 real genes + 21 permuted columns), and the three-state decision curve.
+Their machine-readable outputs are in `replication/analysis_*.json`.
+
+To rerun, point `MRG4_CGGA` at the four CGGA release files described in
+`replication_cgga693.py`; the derived tables in `data/` are shipped here:
+
+    export MRG4_CGGA=/path/to/cgga
+    python code/analysis/refit_bootstrap.py
+
+The scripts write to `replication/` by default. Override with `MRG4_OUT` and
+`MRG4_DERIVED` if the repository is installed read-only.
+
+**Scale caveat.** `Table_S5_CGGA325_MRG4逐患者评分.csv` carries three linear-predictor
+columns. Only `MRG4_lp_cohort_z` pairs with the frozen Breslow baseline in
+`Table_S19_Breslow基线累积风险.csv`; the other two are on different scales and
+must not be used for absolute-risk prediction.
