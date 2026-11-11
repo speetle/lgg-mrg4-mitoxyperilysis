@@ -22,6 +22,8 @@ previously deposited table changed.
   independently permuted columns), 300 resamples, and within-cohort halves.
 - `code/analysis/round1_tables.py` — decision curves under three calibration
   states and the four-variable clinical model (S37).
+- `code/analysis/round2_extra.py` — RMST, grade-specific hazard ratios and
+  IPCW time-dependent AUC in CGGA-693 (`replication/analysis_round2.json`).
 - `replication/analysis_*.json` — nine machine-readable result records.
 
 ### Changed

@@ -135,7 +135,7 @@ limitations section of the article should be read before reusing the score.
 
 ## Revision-2 controls (v1.1.0)
 
-Seven scripts added in `code/analysis/` reproduce the controls introduced after
+Eight scripts added in `code/analysis/` reproduce the controls introduced after
 the second full revision round: refit bootstrap (coefficient uncertainty),
 out-of-bag and cross-cohort refitting, pooled and within-cohort split halves,
 four-horizon calibration with continuous NRI, the parameter-matched null

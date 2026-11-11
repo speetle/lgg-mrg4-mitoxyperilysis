@@ -47,11 +47,11 @@ c693 = dict(t=np.array([float(r["OS_months"]) for r in rows]),
                             else (1.0 if r["IDH_status"] == "Wildtype" else 0.0) for r in rows]),
             g3=np.array([1.0 if r["Grade"].strip().endswith("III") else 0.0 for r in rows]))
 
-s5 = [r for r in csv.DictReader(open(D + "/数据_S/Table_S5_CGGA325_MRG4逐患者评分.csv",
+s5 = [r for r in csv.DictReader(open(S + "/Table_S5_CGGA325_MRG4逐患者评分.csv",
                                     encoding="utf-8-sig"))
       if r["Included_in_primary_validation"] == "True"]
 s3 = {r["Patient_ID"]: r for r in csv.DictReader(
-    open(D + "/数据_S/Table_S3_CGGA325逐患者数据.csv", encoding="utf-8-sig"))}
+    open(S + "/Table_S3_CGGA325逐患者数据.csv", encoding="utf-8-sig"))}
 def _g325(pid, col):
     v = s3[pid][col]
     return float(v) if v not in ("", "NA") else np.nan
@@ -65,7 +65,7 @@ c325 = dict(t=np.array([float(r["OS_months"]) for r in s5]),
                             else (1.0 if s3[r["Patient_ID"]]["IDH_status"] == "Wildtype" else 0.0) for r in s5]),
             g3=np.array([1.0 if (s3[r["Patient_ID"]]["WHO_grade"].strip().endswith("III")) else 0.0 for r in s5]))
 
-base = list(csv.DictReader(open(D + "/数据_S/Table_S19_Breslow基线累积风险.csv",
+base = list(csv.DictReader(open(S + "/Table_S19_Breslow基线累积风险.csv",
                                 encoding="utf-8-sig")))
 bt = np.array([float(r["time_months"]) for r in base])
 bs = np.array([float(r["S0"]) for r in base])
