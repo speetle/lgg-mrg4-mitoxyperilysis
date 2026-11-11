@@ -11,8 +11,8 @@ contact:
   - family-names: Lian
     given-names: Bin
     email: drmilo@gkd.edu.cn
-version: "v1.0.0"
-date-released: "2026-10-05"
+version: "v1.0.1"
+date-released: "2026-11-11"
 license: MIT
 repository-code: "https://github.com/speetle/lgg-mrg4-mitoxyperilysis"
 keywords:
@@ -21,4 +21,5 @@ keywords:
   - mitoxyperilysis
   - TCGA
   - CGGA
+  - external validation
   - reproducibility

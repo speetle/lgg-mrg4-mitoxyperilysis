@@ -1,0 +1,10 @@
+# Versions used for release v1.0.1 (CPython 3.13.12).
+# lifelines supplies the Cox fits, the Kaplan-Meier estimates and the Schoenfeld
+# residual test; scikit-survival is used by the derivation scripts; matplotlib
+# renders the figures.
+numpy==2.5.4
+pandas==2.3.3
+scipy==1.18.1
+lifelines==0.30.3
+scikit-survival==0.28.0
+matplotlib==3.11.2

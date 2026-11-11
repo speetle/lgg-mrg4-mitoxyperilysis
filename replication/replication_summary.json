@@ -1,0 +1,33 @@
+{
+  "cohort": "CGGA-693, WHO grade II-III, independent of CGGA-325",
+  "n_profiled": 693,
+  "n": 420,
+  "events": 197,
+  "median_os_months": 47.671457905544145,
+  "n_grade2": 172,
+  "n_grade3": 248,
+  "n_idh_mutant": 288,
+  "n_idh_missing": 38,
+  "c_mrg4": 0.6735760602087187,
+  "c_modelA": 0.6475490812422539,
+  "ci_mrg4": [
+    0.6330832062936671,
+    0.7166181443158014
+  ],
+  "ci_modelA": [
+    0.6024178159365143,
+    0.6921174358565424
+  ],
+  "difference": 0.026026978966464887,
+  "ci_difference": [
+    -0.006563406749847347,
+    0.06075507136207713
+  ],
+  "p_difference": 0.121,
+  "sd_score": 0.6629090298294689,
+  "exclusions": {
+    "grade IV or ungraded (not in the LGG analysis set)": 250,
+    "included": 420,
+    "overall survival missing": 23
+  }
+}

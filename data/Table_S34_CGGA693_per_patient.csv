@@ -1,0 +1,694 @@
+﻿Patient_ID,Included,Exclusion_reason,BMP1_z,KIF15_z,TRAF3_z,PDGFA_z,MRG4_score_raw_scale,ModelA_score_raw_scale,OS_months,Death,Grade,IDH_status,Sex,Age,Risk_tertile
+CGGA_1002,yes,included,-0.6988,-0.0026,0.0834,0.1752,-0.117415,0.71894,10.0205,1,WHO III,Wildtype,Female,43,3
+CGGA_1003,yes,included,0.3472,-0.1535,-0.4727,-0.484,-0.101161,0.636587,125.4045,0,WHO II,Mutant,Female,47,3
+CGGA_1010,yes,included,-1.1334,-0.6866,-1.3467,-0.8759,-0.710554,-1.436764,8.0821,1,WHO II,Mutant,Male,45,1
+CGGA_1012,yes,included,1.104,0.1644,-0.9399,-0.0507,0.560491,0.700544,120.8706,1,WHO II,Mutant,Male,45,3
+CGGA_1014,yes,included,-0.1374,0.6718,-0.2852,0.9611,0.804668,1.40435,8.6407,1,WHO II,Wildtype,Male,42,3
+CGGA_1017,no,grade IV or ungraded (not in the LGG analysis set),-0.9853,-0.6513,1.9044,-0.2807,-1.143906,-0.67998,25.232,1,WHO IV,Wildtype,Female,29,
+CGGA_1018,yes,included,0.1285,0.203,-0.1009,-0.2187,0.04639,-0.401319,83.0226,1,WHO II,Mutant,Male,50,3
+CGGA_103,yes,included,-0.3373,-0.009,1.1926,-0.4073,-0.570285,-0.886903,39.0308,1,WHO III,Mutant,Male,56,1
+CGGA_1030,yes,included,-0.6194,-0.3141,-0.1041,0.0872,-0.238895,0.433283,120.3778,0,WHO II,Mutant,Female,40,2
+CGGA_1032,yes,included,-1.0808,-0.7637,-1.0861,-0.6966,-0.708701,-0.540642,21.1253,1,WHO II,Wildtype,Female,41,1
+CGGA_1033,yes,included,-1.0513,-0.6962,-0.3329,-0.1121,-0.568696,-0.094336,43.4333,0,WHO II,NA,Male,44,1
+CGGA_1036,no,grade IV or ungraded (not in the LGG analysis set),0.5792,0.8677,-0.7715,-0.5293,0.481466,1.820068,26.4805,1,WHO IV,Wildtype,Male,41,
+CGGA_1037,yes,included,-0.4525,-0.7508,-1.0861,-0.7193,-0.55141,-0.752153,25.6263,0,WHO II,NA,Male,44,1
+CGGA_1041,no,grade IV or ungraded (not in the LGG analysis set),-0.29,-0.6481,0.6332,-0.2094,-0.626327,-0.673787,118.0452,0,WHO IV,Wildtype,Male,58,
+CGGA_1048,yes,included,0.0607,-0.6256,0.2296,0.0353,-0.31204,0.59527,23.0965,0,WHO II,Wildtype,Female,27,2
+CGGA_1051,yes,included,-0.7577,-0.6031,-0.3393,-0.0201,-0.404101,-0.191269,27.5318,1,WHO II,Wildtype,Male,47,2
+CGGA_1055,yes,included,1.0933,1.2274,1.2084,-0.4327,0.356256,-0.338934,52.9281,1,WHO III,Mutant,Male,43,3
+CGGA_1057,yes,included,-0.2535,-0.5646,-0.603,0.5152,0.063352,0.63592,50.8912,1,WHO II,Wildtype,Female,57,3
+CGGA_1058,yes,included,-0.597,-0.2948,-0.3933,0.1626,-0.119287,-0.538326,32.6899,1,WHO II,Mutant,Male,34,3
+CGGA_106,yes,included,-0.7711,-0.6545,-0.352,0.6278,-0.117671,0.028532,165.191,0,WHO II,Wildtype,Male,30,3
+CGGA_1063,no,overall survival missing,-0.9442,-0.6673,-1.2418,-0.8493,-0.66494,-1.190991,,NA,WHO II,Mutant,Male,29,
+CGGA_1065,yes,included,0.1526,-0.5678,-0.5554,-0.606,-0.382262,-0.765907,112.0986,0,WHO II,Mutant,Female,48,2
+CGGA_1066,yes,included,-0.4016,-0.0283,0.5506,0.3372,-0.086064,-0.744509,23.7536,1,WHO II,Mutant,Female,34,3
+CGGA_1069,no,overall survival missing,0.5864,-0.5292,1.3387,-0.2234,-0.51954,0.353028,,NA,WHO II,Mutant,Male,47,
+CGGA_107,yes,included,0.7042,1.2531,1.1767,1.0924,1.006585,0.856256,70.8337,1,WHO III,Wildtype,Female,38,3
+CGGA_1075,no,grade IV or ungraded (not in the LGG analysis set),1.2852,0.6847,0.3186,0.4878,0.807304,2.547663,13.076,1,WHO IV,Wildtype,Male,72,
+CGGA_108,yes,included,1.0915,0.0424,0.6014,0.0632,0.188686,0.376565,12.0246,1,WHO III,Wildtype,Male,44,3
+CGGA_1082,no,overall survival missing,-0.2267,-0.3719,-1.2005,-0.5853,-0.225995,-0.918809,,NA,WHO II,Mutant,Female,55,
+CGGA_1086,no,grade IV or ungraded (not in the LGG analysis set),-0.7122,-0.6127,-0.5903,-0.6013,-0.615809,-0.134637,64.9528,1,WHO IV,Wildtype,Female,65,
+CGGA_1087,yes,included,0.2303,0.0873,0.4648,-0.5553,-0.27692,-0.279285,23.0308,0,WHO II,Mutant,Female,36,2
+CGGA_1097,yes,included,-0.0027,0.1773,-0.7143,0.8498,0.65889,0.971088,45.2731,1,WHO II,Wildtype,Male,30,3
+CGGA_1100,yes,included,-0.855,-0.7251,-0.46,-0.7419,-0.803215,-1.591632,108.8789,0,WHO II,Mutant,Female,61,1
+CGGA_1101,yes,included,-0.4641,-0.7155,-0.8795,-0.8746,-0.661645,-0.523599,7.0308,1,WHO II,Wildtype,Female,35,1
+CGGA_1103,no,grade IV or ungraded (not in the LGG analysis set),-0.0999,4.853,0.3599,-0.436,1.929159,2.080246,19.2197,1,WHO IV,Mutant,Female,35,
+CGGA_1106,no,grade IV or ungraded (not in the LGG analysis set),2.5614,0.1066,1.9775,0.8924,0.668197,1.545593,13.7988,1,WHO IV,Wildtype,Male,37,
+CGGA_1108,yes,included,1.6377,-0.192,2.772,5.6442,2.380926,2.976922,22.4723,1,WHO III,Wildtype,Female,39,3
+CGGA_1111,yes,included,1.1442,1.4425,-0.7969,-0.2594,1.029279,2.134909,88.5749,1,WHO III,Mutant,Male,45,3
+CGGA_112,yes,included,0.4284,-0.237,1.736,-0.576,-0.68844,-0.666999,50.3984,1,WHO II,Mutant,Male,17,1
+CGGA_1120,yes,included,-1.0861,-0.6673,-0.5458,-0.674,-0.783079,-1.421082,13.8645,1,WHO III,Mutant,Female,58,1
+CGGA_1121,yes,included,-0.3106,-0.449,-0.139,-0.6806,-0.581597,-0.661441,107.6961,0,WHO III,Mutant,Female,29,1
+CGGA_1126,yes,included,0.34,0.5273,-0.5236,-0.6366,0.151491,0.158599,25.7577,1,WHO III,Mutant,Male,44,3
+CGGA_1127,yes,included,-0.2222,-0.6962,-1.1878,-0.5533,-0.362879,-0.765311,86.4066,1,WHO II,NA,Male,33,2
+CGGA_1130,no,grade IV or ungraded (not in the LGG analysis set),0.1491,-0.237,-0.8922,-0.1927,0.048457,0.222829,13.2074,1,WHO IV,Mutant,Female,23,
+CGGA_1131,yes,included,-0.39,0.0617,-0.7588,-0.6846,-0.219901,-1.414825,106.809,0,WHO III,Mutant,Female,46,2
+CGGA_1132,yes,included,-0.158,-0.5421,-0.371,-0.476,-0.432053,-0.442134,106.809,0,WHO III,Mutant,Female,33,2
+CGGA_1134,no,grade IV or ungraded (not in the LGG analysis set),0.6363,-0.0668,0.8303,0.8944,0.364712,0.442926,1.9384,1,WHO IV,Wildtype,Female,56,
+CGGA_1135,no,grade IV or ungraded (not in the LGG analysis set),0.9505,-0.2499,-0.8509,1.0417,0.831531,0.855742,40.8706,1,WHO IV,Wildtype,Male,40,
+CGGA_1137,yes,included,-1.1495,-0.6545,-0.8255,-0.7286,-0.753163,-1.221423,106.3491,0,WHO III,Wildtype,Male,58,1
+CGGA_1138,no,grade IV or ungraded (not in the LGG analysis set),0.2544,4.6154,-0.6253,-0.67,2.032642,1.913061,13.5031,1,WHO IV,Wildtype,Male,54,
+CGGA_1141,yes,included,-0.6631,-0.571,-0.1899,-0.0301,-0.405119,-0.033563,14.193,1,WHO III,Wildtype,Male,65,2
+CGGA_1142,no,grade IV or ungraded (not in the LGG analysis set),1.0228,1.5646,-0.2439,2.5281,2.259661,2.790588,33.0185,1,WHO IV,Wildtype,Male,60,
+CGGA_1144,yes,included,-0.7854,-0.6738,0.2137,0.1046,-0.51577,0.010639,82.2998,0,WHO III,Wildtype,Female,39,2
+CGGA_1147,yes,included,-0.6033,-0.5292,1.0464,-0.5933,-0.934508,-0.85917,105.6263,0,WHO II,Mutant,Male,36,1
+CGGA_1148,yes,included,0.0768,-0.221,-0.8477,-0.666,-0.200284,-1.490174,19.5811,1,WHO II,Mutant,Male,37,3
+CGGA_1152,yes,included,0.6337,-0.6449,-0.6984,-0.294,-0.110195,0.663313,105.1663,0,WHO II,Wildtype,Male,13,3
+CGGA_1154,yes,included,-0.2668,0.2768,0.0008,-0.5306,-0.195219,-0.443774,12.1232,1,WHO III,Mutant,Female,33,3
+CGGA_1155,yes,included,-0.1231,-0.4297,-1.191,-0.5087,-0.191575,-0.948618,45.1088,1,WHO III,Mutant,Male,43,3
+CGGA_1156,yes,included,-0.0107,-0.2499,0.0548,-0.492,-0.367547,-0.240768,104.9363,0,WHO II,Mutant,Female,41,2
+CGGA_1157,yes,included,-0.1446,-0.5678,-0.2121,-0.1227,-0.308903,0.041488,23.885,1,WHO II,Wildtype,Male,64,2
+CGGA_1158,yes,included,0.481,-0.3237,-0.6666,-0.5233,-0.118241,-0.144001,104.7392,0,WHO II,Mutant,Male,39,3
+CGGA_1159,yes,included,-0.6256,-0.6449,-0.1581,-0.0801,-0.461214,0.21881,104.5092,0,WHO II,Mutant,Male,51,2
+CGGA_1161,yes,included,-0.639,-0.4522,-0.6952,-0.2974,-0.351783,-0.306622,104.4764,0,WHO III,Mutant,Male,36,2
+CGGA_1162,yes,included,0.2285,-0.7765,-1.4643,-0.7713,-0.322488,-1.406597,104.2793,0,WHO III,NA,Male,39,2
+CGGA_1164,no,grade IV or ungraded (not in the LGG analysis set),0.3302,0.5851,0.0675,-0.4713,0.114402,1.013977,33.577,1,WHO IV,Mutant,Female,38,
+CGGA_1169,yes,included,-0.3632,0.2158,-0.1804,-0.5393,-0.209449,0.114648,57.9877,1,WHO III,Mutant,Male,30,3
+CGGA_1172,no,grade IV or ungraded (not in the LGG analysis set),-0.1758,1.6031,-0.3996,-0.5346,0.536437,0.538082,102.8665,0,WHO IV,Mutant,Female,36,
+CGGA_1178,yes,included,-0.2561,0.2608,0.6364,-0.2994,-0.240189,-0.715535,13.8645,1,WHO III,Mutant,Male,41,2
+CGGA_1181,yes,included,-0.3971,-0.3558,-0.6444,-0.448,-0.329017,-0.266852,10.4476,0,WHO II,Mutant,Male,36,2
+CGGA_1183,yes,included,1.5752,1.3912,-0.1804,0.4538,1.312082,2.478097,13.4045,1,WHO III,Wildtype,Female,25,3
+CGGA_1184,yes,included,-0.8157,-0.5999,0.7349,0.9351,-0.215092,0.389302,5.1253,1,WHO III,Mutant,Male,46,2
+CGGA_1185,yes,included,0.7006,-0.4425,-0.1041,0.7678,0.368667,1.156733,24.0164,1,WHO III,Wildtype,Female,50,3
+CGGA_1191,yes,included,1.0165,-0.6224,1.1767,-0.0261,-0.318489,-0.83857,101.2567,0,WHO III,Mutant,Male,53,2
+CGGA_1192,yes,included,1.1691,-0.4329,0.0675,0.4665,0.308797,0.985442,101.191,0,WHO II,Mutant,Female,43,3
+CGGA_1195,yes,included,-0.8309,-0.5485,-1.0956,-0.478,-0.437342,1.788267,15.6386,1,WHO III,Mutant,Male,43,2
+CGGA_1198,yes,included,-1.0049,-0.6738,-1.067,-0.7893,-0.696399,-1.276132,100.731,0,WHO II,Mutant,Male,30,1
+CGGA_120,no,grade IV or ungraded (not in the LGG analysis set),-0.2258,-0.0315,-0.0342,3.5719,1.64811,1.741183,9.462,1,WHO IV,Wildtype,Male,42,
+CGGA_1204,yes,included,-0.4703,-0.1375,0.8207,-0.4267,-0.584977,-0.901406,100.4025,0,WHO II,Mutant,Male,53,1
+CGGA_1205,yes,included,-0.7577,-0.6352,-0.8128,-0.7959,-0.678391,-1.307706,30.5216,1,WHO III,Wildtype,Female,59,1
+CGGA_1207,yes,included,-0.5792,-0.5678,-0.7556,-0.316,-0.384523,0.347996,100.1725,0,WHO III,NA,Female,49,2
+CGGA_1208,no,grade IV or ungraded (not in the LGG analysis set),0.7836,-0.2017,2.378,0.3905,-0.269615,0.899028,5.2895,1,WHO IV,Wildtype,Male,38,
+CGGA_1211,yes,included,-0.647,-0.5292,0.6682,-0.266,-0.698893,-0.549898,99.9425,0,WHO II,Mutant,Male,40,1
+CGGA_1212,yes,included,-0.5426,-0.404,0.1565,-0.2974,-0.507182,-1.122198,75.3018,1,WHO III,Mutant,Male,31,2
+CGGA_1223,yes,included,1.4869,1.3173,0.2137,4.3545,3.031764,2.012439,22.4066,1,WHO III,Wildtype,Male,42,3
+CGGA_1226,yes,included,-0.5069,-0.5999,-0.2693,1.0017,0.135491,0.610473,22.0123,1,WHO II,Wildtype,Female,33,3
+CGGA_1228,yes,included,-0.4186,-0.6481,0.9955,0.5492,-0.381952,0.203065,86.2752,0,WHO II,Wildtype,Male,34,2
+CGGA_1232,yes,included,0.5658,-0.2531,0.1502,-0.3993,-0.198447,-0.60335,67.9097,1,WHO III,Mutant,Male,39,3
+CGGA_1235,yes,included,-0.2311,-0.6802,0.2137,0.1826,-0.338271,0.178636,98.694,0,WHO III,Mutant,Female,32,2
+CGGA_1236,no,grade IV or ungraded (not in the LGG analysis set),-0.6488,-0.5935,0.0866,1.0477,0.039215,-0.591477,6.2752,1,WHO IV,Wildtype,Female,47,
+CGGA_1238,yes,included,0.4668,-0.6481,0.6142,-0.2694,-0.455177,0.386536,98.4312,0,WHO II,Wildtype,Female,11,2
+CGGA_1239,yes,included,-0.0919,-0.176,0.1088,-0.4653,-0.354341,-0.825309,98.4641,0,WHO II,Mutant,Female,44,2
+CGGA_1248,no,grade IV or ungraded (not in the LGG analysis set),-0.8585,0.3988,-0.1104,0.0592,0.017927,0.10386,4.5339,1,WHO IV,Wildtype,Male,54,
+CGGA_1255,no,grade IV or ungraded (not in the LGG analysis set),5.7885,0.4856,-0.317,-0.388,1.608827,4.958276,3.8768,1,WHO IV,Wildtype,Male,49,
+CGGA_1256,no,grade IV or ungraded (not in the LGG analysis set),0.2428,-0.51,-1.2196,0.1159,0.171972,-0.567652,84.0082,0,WHO IV,NA,Female,52,
+CGGA_1257,no,grade IV or ungraded (not in the LGG analysis set),-0.913,-0.343,-0.0278,0.5718,-0.113868,0.64755,6.308,1,WHO IV,Wildtype,Male,59,
+CGGA_1260,no,grade IV or ungraded (not in the LGG analysis set),0.4177,-0.5581,-0.3806,0.5925,0.223748,0.836194,5.8152,1,WHO IV,Wildtype,Male,32,
+CGGA_1262,no,grade IV or ungraded (not in the LGG analysis set),-0.0348,-0.7251,-0.3615,-0.0581,-0.286971,-0.159612,5.4538,1,WHO IV,Wildtype,Female,69,
+CGGA_1264,yes,included,0.2954,-0.3751,0.004,0.0373,-0.080693,-0.326493,96.23,0,WHO III,Mutant,Female,37,3
+CGGA_1269,yes,included,0.0116,-0.2563,1.6121,-0.338,-0.661377,-0.779091,96.0329,0,WHO III,Mutant,Female,35,1
+CGGA_1273,yes,included,0.2481,-0.693,0.5538,-0.0521,-0.413903,-0.546811,80.0986,0,WHO III,Mutant,Male,64,2
+CGGA_1282,no,grade IV or ungraded (not in the LGG analysis set),3.8314,0.4599,-0.5141,-0.198,1.229613,1.762901,36.6653,1,WHO IV,Wildtype,Female,33,
+CGGA_1286,yes,included,-0.2035,-0.5806,-0.9463,-0.1241,-0.156064,-0.912317,95.4743,0,WHO II,Mutant,Female,52,3
+CGGA_1291,yes,included,-0.6515,-0.7605,-1.4357,-0.7333,-0.530807,-0.970022,79.5729,0,WHO III,NA,Male,41,1
+CGGA_1295,yes,included,0.9692,2.1523,-0.5967,-0.4227,1.187175,2.600118,10.1848,1,WHO III,Mutant,Male,40,3
+CGGA_1300,yes,included,-0.2802,0.1098,-0.7937,0.5725,0.441907,0.249163,58.9076,1,WHO III,Mutant,Male,35,3
+CGGA_1303,yes,included,-1.1129,-0.7283,0.5792,-0.7546,-1.12458,-1.324599,93.9959,0,WHO III,Mutant,Female,45,1
+CGGA_1305,yes,included,-0.0928,-0.3012,-0.5967,-0.6326,-0.325021,-0.600814,88.7721,1,WHO III,Mutant,Male,43,2
+CGGA_1309,yes,included,-0.9326,-0.6962,-1.4706,-0.8119,-0.603011,-1.752316,31.6715,0,WHO III,NA,Male,65,1
+CGGA_1311,yes,included,-0.1231,-0.0058,-1.1719,-0.6066,-0.046594,-0.492874,35.4825,1,WHO III,Mutant,Female,29,3
+CGGA_1317,yes,included,-0.8719,-0.7059,-0.1104,-0.7653,-0.89301,-1.27198,94.0945,0,WHO II,Mutant,Male,45,1
+CGGA_1318,yes,included,1.8911,-0.1182,-0.5109,-0.2587,0.430917,0.79785,49.1828,0,WHO II,Mutant,Male,39,3
+CGGA_1319,yes,included,-0.6194,-0.5325,-1.1592,-0.648,-0.441678,-1.108982,93.9959,0,WHO III,Wildtype,Female,42,2
+CGGA_1321,yes,included,1.1593,0.1355,-0.5236,-0.4727,0.260014,0.433481,23.0637,1,WHO III,Mutant,Male,46,3
+CGGA_1325,no,grade IV or ungraded (not in the LGG analysis set),-0.9299,-0.5935,-0.3901,-0.6033,-0.711683,-0.699743,,NA,WHO IV,Wildtype,Male,20,
+CGGA_1326,no,grade IV or ungraded (not in the LGG analysis set),0.9523,0.1837,-0.7556,0.0792,0.548733,0.871041,10.5791,1,WHO IV,Mutant,Male,45,
+CGGA_1334,yes,included,0.4346,-0.6224,-0.1232,-0.0081,-0.150871,-0.231892,4.7967,1,WHO II,Wildtype,Female,33,3
+CGGA_1335,yes,included,-0.6943,-0.465,-0.549,-0.4887,-0.498534,-0.37664,93.2731,0,WHO II,Mutant,Female,43,2
+CGGA_1337,no,grade IV or ungraded (not in the LGG analysis set),-0.7889,-0.7027,-1.0893,-0.148,-0.341263,-0.244357,71.3593,1,WHO IV,NA,Male,67,
+CGGA_1339,yes,included,-0.6908,-0.4875,0.9542,-0.0901,-0.674489,-0.875504,93.0431,0,WHO II,Mutant,Male,41,1
+CGGA_1345,yes,included,-0.8211,-0.7508,-0.9018,-0.4827,-0.576947,0.323281,92.8131,0,WHO II,Mutant,Male,56,1
+CGGA_135,yes,included,1.5716,0.1419,1.1449,0.4698,0.424486,2.772042,63.2115,1,WHO III,Wildtype,Female,41,3
+CGGA_1350,yes,included,-1.1307,-0.738,-0.0469,-0.8213,-1.016682,-1.409092,92.616,0,WHO II,Mutant,Male,36,1
+CGGA_1353,no,grade IV or ungraded (not in the LGG analysis set),0.0625,2.422,0.147,2.4948,2.300247,2.468283,33.577,1,WHO IV,Wildtype,Male,65,
+CGGA_1354,no,grade IV or ungraded (not in the LGG analysis set),0.5212,1.1696,-0.4028,6.1041,3.699687,2.66849,17.4127,1,WHO IV,Wildtype,Female,40,
+CGGA_1356,yes,included,-0.9076,-0.5967,0.3949,0.1832,-0.516984,-0.248377,31.1458,1,WHO III,Mutant,Male,52,2
+CGGA_1359,yes,included,-0.0991,-0.0668,-0.6062,0.4725,0.314253,1.182254,11.269,1,WHO III,Wildtype,Male,21,3
+CGGA_1361,yes,included,-0.7675,-0.3815,0.9574,-0.404,-0.79648,-1.09429,92.1232,0,WHO II,Mutant,Male,40,1
+CGGA_1362,yes,included,-0.5149,-0.0893,-0.0087,-0.4967,-0.410408,-0.181815,92.1232,0,WHO III,Wildtype,Female,64,2
+CGGA_1365,no,grade IV or ungraded (not in the LGG analysis set),-0.9755,-0.3719,0.0485,-0.642,-0.743585,-1.143944,8.3121,1,WHO IV,Wildtype,Male,55,
+CGGA_1368,yes,included,-1.0959,-0.7059,-0.549,-0.7846,-0.85578,-1.433064,91.8932,0,WHO II,Mutant,Male,49,1
+CGGA_1369,yes,included,-0.7764,-0.4939,-1.1433,-0.6726,-0.479972,-1.043278,11.8275,0,WHO III,Mutant,Female,37,2
+CGGA_1371,no,grade IV or ungraded (not in the LGG analysis set),-0.4516,-0.6224,-0.7238,-0.418,-0.433347,0.8629,91.6961,0,WHO IV,Wildtype,Male,68,
+CGGA_1377,yes,included,-0.3293,-0.1278,0.2614,-0.6426,-0.514609,-1.523338,91.3347,0,WHO III,Mutant,Male,28,2
+CGGA_1378,no,grade IV or ungraded (not in the LGG analysis set),-0.7827,-0.4618,-0.5522,-0.69,-0.615627,-1.141855,12.4189,1,WHO IV,Wildtype,Male,47,
+CGGA_1380,no,grade IV or ungraded (not in the LGG analysis set),0.2392,0.0745,0.8938,0.6158,0.178958,0.233779,9.5606,1,WHO IV,Wildtype,Male,46,
+CGGA_1382,no,grade IV or ungraded (not in the LGG analysis set),-0.1249,0.097,0.9637,0.0379,-0.198378,0.706121,9.3306,1,WHO IV,Wildtype,Male,57,
+CGGA_1383,yes,included,-0.2061,-0.5389,-1.1846,-0.7193,-0.366132,-0.899304,29.0431,0,WHO III,Mutant,Female,47,2
+CGGA_1386,yes,included,-0.6961,-0.6641,-1.3594,-0.7786,-0.537546,-1.321122,91.0062,0,WHO III,NA,Male,34,1
+CGGA_1387,no,grade IV or ungraded (not in the LGG analysis set),0.1714,2.0013,1.218,0.7725,1.05264,0.771871,2.9569,1,WHO IV,Wildtype,Male,41,
+CGGA_1389,yes,included,-0.2865,-0.5678,-0.7175,-0.4873,-0.400169,-0.31953,54.8337,1,WHO III,Mutant,Female,67,2
+CGGA_139,no,grade IV or ungraded (not in the LGG analysis set),-0.9317,-0.5228,1.6915,0.0333,-0.869337,-0.49048,22.8008,1,WHO IV,Mutant,Male,59,
+CGGA_1390,yes,included,-0.556,-0.6802,0.5855,1.141,-0.050963,0.209832,67.3511,0,WHO III,Mutant,Male,50,3
+CGGA_1391,no,grade IV or ungraded (not in the LGG analysis set),0.7292,0.0103,-0.2725,0.3785,0.439345,2.55283,13.9959,0,WHO IV,Wildtype,Male,62,
+CGGA_1392,no,grade IV or ungraded (not in the LGG analysis set),-0.149,-0.0861,-1.0321,0.0979,0.214093,0.452052,15.54,1,WHO IV,Wildtype,Male,62,
+CGGA_1398,yes,included,0.3856,-0.2659,0.665,-0.5087,-0.425837,-1.564983,18.2012,1,WHO III,Mutant,Male,43,2
+CGGA_1400,yes,included,-0.2427,-0.7348,-1.5437,-0.42,-0.237442,-1.161442,90.0862,0,WHO III,NA,Female,53,2
+CGGA_1401,yes,included,-0.0687,-0.2755,1.8218,-0.526,-0.831078,-1.498709,55.1951,1,WHO III,Mutant,Male,39,1
+CGGA_1402,no,grade IV or ungraded (not in the LGG analysis set),1.5493,0.4984,0.3186,3.6519,2.306446,2.198819,90.0862,0,WHO IV,Wildtype,Male,30,
+CGGA_1403,no,grade IV or ungraded (not in the LGG analysis set),0.1499,1.4297,-0.9622,0.3479,1.097152,1.054111,22.308,1,WHO IV,Wildtype,Female,43,
+CGGA_1404,yes,included,-0.5962,-0.2659,0.1406,-0.2,-0.406548,-0.419876,90.0534,0,WHO III,Mutant,Female,56,2
+CGGA_1407,yes,included,-0.531,-0.6127,-1.3149,-0.4693,-0.333379,-1.613785,89.6263,0,WHO III,Mutant,Female,29,2
+CGGA_1410,no,grade IV or ungraded (not in the LGG analysis set),0.3864,0.8581,0.4362,-0.1147,0.338758,0.770737,27.1047,1,WHO IV,Wildtype,Female,27,
+CGGA_1413,yes,included,-0.5872,-0.5581,2.003,-0.2907,-1.026207,-1.011421,89.3634,0,WHO III,Mutant,Male,35,1
+CGGA_1415,no,grade IV or ungraded (not in the LGG analysis set),-0.531,-0.4554,1.1449,-0.1994,-0.716141,2.690289,89.3306,0,WHO IV,Wildtype,Female,30,
+CGGA_1416,yes,included,-0.7265,-0.2081,-0.2153,-0.392,-0.420771,-1.114262,63.5072,1,WHO III,Mutant,Male,42,2
+CGGA_1417,yes,included,-0.6738,-0.0251,1.9871,-0.6453,-0.967702,-0.719056,89.1335,0,WHO III,Mutant,Male,56,1
+CGGA_1418,no,grade IV or ungraded (not in the LGG analysis set),-0.7684,-0.0796,-1.102,-0.7306,-0.323498,-0.632346,9.4292,1,WHO IV,Wildtype,Female,73,
+CGGA_1419,no,grade IV or ungraded (not in the LGG analysis set),0.0652,-0.4104,1.3197,0.6738,-0.164256,0.013373,8.1807,1,WHO IV,Wildtype,Male,56,
+CGGA_1420,no,grade IV or ungraded (not in the LGG analysis set),-1.0353,-0.7412,-0.5299,-0.0194,-0.494088,0.41029,11.9589,1,WHO IV,Wildtype,Male,60,
+CGGA_1421,yes,included,-1.0977,-0.7059,-0.9304,-0.1447,-0.458674,-0.755711,88.6735,0,WHO III,NA,Male,35,2
+CGGA_1422,no,grade IV or ungraded (not in the LGG analysis set),-0.9683,-0.5774,-0.3996,-0.3707,-0.600328,-0.88768,6.7023,1,WHO IV,Wildtype,Male,76,
+CGGA_1424,yes,included,-1.1531,-0.7283,-0.8223,-0.8413,-0.843097,-1.436019,88.4435,0,WHO III,Mutant,Female,41,1
+CGGA_1425,no,grade IV or ungraded (not in the LGG analysis set),2.0902,2.6693,-1.1687,1.8742,2.953763,1.861183,21.0267,1,WHO IV,Wildtype,Female,22,
+CGGA_1426,no,grade IV or ungraded (not in the LGG analysis set),0.8175,-0.3944,0.093,-0.1867,-0.083404,-0.328797,4.3696,1,WHO IV,Wildtype,Female,50,
+CGGA_1427,yes,included,-0.4328,-0.5774,-0.5681,-0.0494,-0.267956,0.486013,11.1376,0,WHO II,NA,Female,30,2
+CGGA_1429,no,grade IV or ungraded (not in the LGG analysis set),-0.5123,0.1355,0.9447,-0.336,-0.455285,-0.19699,88.2136,0,WHO IV,Mutant,Female,40,
+CGGA_1430,no,grade IV or ungraded (not in the LGG analysis set),0.0214,2.1812,1.0909,0.9717,1.223108,0.414768,5.3224,1,WHO IV,Wildtype,Female,28,
+CGGA_1431,yes,included,-0.2213,-0.4746,-0.6984,-0.5613,-0.380193,-0.434427,67.2854,1,WHO III,Mutant,Male,48,2
+CGGA_1433,no,grade IV or ungraded (not in the LGG analysis set),0.2829,0.0713,-0.3933,2.7994,1.542054,0.459565,12.9446,1,WHO IV,Wildtype,Female,72,
+CGGA_1434,yes,included,0.6444,0.0135,-0.3202,0.8404,0.65179,0.895695,2.2012,1,WHO III,Wildtype,Male,61,3
+CGGA_1435,yes,included,0.465,0.0263,-0.2757,-0.176,0.113413,-0.111644,54.4394,1,WHO III,Mutant,Female,46,3
+CGGA_1437,yes,included,-1.0593,-0.7219,0.0167,-0.2034,-0.70963,-0.054,34.0698,1,WHO III,Wildtype,Male,48,1
+CGGA_1440,yes,included,0.0009,-0.3269,0.576,-0.3267,-0.444997,-0.918383,87.7207,0,WHO II,Mutant,Female,29,2
+CGGA_1441,no,grade IV or ungraded (not in the LGG analysis set),0.5997,-0.4843,-0.9145,-0.1014,0.099265,1.388194,61.8316,1,WHO IV,Wildtype,Male,70,
+CGGA_1443,yes,included,0.6935,-0.6962,-0.0564,0.3852,0.054412,0.860511,87.5565,0,WHO II,Wildtype,Male,41,3
+CGGA_1444,no,grade IV or ungraded (not in the LGG analysis set),0.6435,3.7419,-0.0469,0.8278,2.308798,2.263366,12.4189,1,WHO IV,Wildtype,Female,68,
+CGGA_1445,yes,included,-0.7684,-0.5517,-0.0755,-0.8506,-0.844056,-1.668106,87.5236,0,WHO III,Wildtype,Male,37,1
+CGGA_1446,yes,included,-1.195,-0.6866,-0.3869,-0.8453,-0.940066,-1.440738,87.5236,0,WHO II,Mutant,Male,29,1
+CGGA_1447,yes,included,-1.3048,-0.6481,0.1819,-0.6166,-0.976235,-1.347824,10.1191,1,WHO III,Wildtype,Male,48,1
+CGGA_1451,no,grade IV or ungraded (not in the LGG analysis set),2.0875,0.1676,-0.2948,0.2772,0.81967,1.809272,14.3901,1,WHO IV,Wildtype,Female,45,
+CGGA_1452,no,grade IV or ungraded (not in the LGG analysis set),1.6654,0.492,-0.7969,-0.0107,0.842414,1.133004,15.3758,1,WHO IV,Wildtype,Male,53,
+CGGA_1454,yes,included,-1.1325,-0.6994,0.6205,-0.0127,-0.770331,0.044453,87.2279,0,WHO II,Wildtype,Female,42,1
+CGGA_1455,yes,included,-1.1914,-0.7187,0.0294,-0.8493,-1.054987,-1.312366,87.2279,0,WHO II,Mutant,Male,40,1
+CGGA_1457,no,grade IV or ungraded (not in the LGG analysis set),1.4244,1.7573,1.0591,0.5338,1.186361,2.109971,10.2505,1,WHO IV,Wildtype,Male,60,
+CGGA_1458,yes,included,1.2548,0.052,0.2995,-0.4053,0.082437,-0.017391,4.1725,1,WHO III,Mutant,Female,54,3
+CGGA_1459,yes,included,0.457,1.4747,0.7031,1.2604,1.238673,1.440786,16.5257,1,WHO III,Wildtype,Male,55,3
+CGGA_1461,no,grade IV or ungraded (not in the LGG analysis set),0.573,0.8902,0.4934,1.7243,1.27005,0.147954,7.4251,1,WHO IV,Wildtype,Female,60,
+CGGA_1462,no,grade IV or ungraded (not in the LGG analysis set),0.9871,0.3924,0.5029,1.4917,1.032396,0.045589,5.7166,1,WHO IV,Wildtype,Male,49,
+CGGA_1463,yes,included,-0.7568,-0.5003,1.0813,-0.5186,-0.933256,-1.239423,86.5051,0,WHO II,Mutant,Female,69,1
+CGGA_1467,no,grade IV or ungraded (not in the LGG analysis set),-1.1611,-0.616,-0.0501,-0.7986,-0.956324,-1.433494,28.4517,1,WHO IV,Mutant,Male,58,
+CGGA_1469,yes,included,-1.1932,-0.6705,0.3281,-0.7893,-1.075416,-1.216068,86.2752,0,WHO III,Mutant,Male,46,1
+CGGA_1471,yes,included,0.7568,-0.3944,-0.2249,-0.4487,-0.149085,0.53932,86.1766,0,WHO II,Mutant,Male,45,3
+CGGA_1472,no,grade IV or ungraded (not in the LGG analysis set),0.4123,-0.6416,-0.8287,-0.382,-0.17704,-1.890796,33.6756,1,WHO IV,NA,Male,34,
+CGGA_1473,yes,included,0.44,-0.7251,0.951,-0.4033,-0.6422,-4.927864,8.7064,1,WHO III,NA,Female,28,1
+CGGA_1474,yes,included,-1.1995,-0.7155,-0.1613,-0.7486,-0.961946,-1.413114,10.9405,0,WHO III,Mutant,Female,50,1
+CGGA_1476,no,grade IV or ungraded (not in the LGG analysis set),0.0375,0.3603,-0.6666,0.8411,0.738616,0.949461,9.8234,1,WHO IV,Wildtype,Female,53,
+CGGA_1477,yes,included,-0.5783,-0.6834,-1.2927,-0.3094,-0.306922,-0.488432,39.2279,1,WHO II,NA,Male,43,2
+CGGA_1478,no,grade IV or ungraded (not in the LGG analysis set),1.8894,1.4618,-0.5458,6.4128,4.370372,4.449887,17.807,1,WHO IV,Wildtype,Female,72,
+CGGA_1480,no,grade IV or ungraded (not in the LGG analysis set),0.0393,-0.5036,-0.139,0.6891,0.140254,1.181595,13.306,1,WHO IV,Wildtype,Male,41,
+CGGA_1481,no,grade IV or ungraded (not in the LGG analysis set),-1.1557,-0.6898,-0.9971,-0.556,-0.647542,-1.391811,4.3039,1,WHO IV,Wildtype,Male,55,
+CGGA_1482,yes,included,-0.7559,-0.6224,-1.3054,-0.6153,-0.468174,-1.388458,85.1581,0,WHO III,NA,Male,38,2
+CGGA_1486,no,grade IV or ungraded (not in the LGG analysis set),-0.7809,-0.7155,-1.4357,-0.298,-0.334655,-1.082433,6.0452,1,WHO IV,Wildtype,Male,45,
+CGGA_1487,yes,included,2.216,0.0199,5.0126,1.9882,0.342315,-0.691781,17.0842,1,WHO III,Wildtype,Female,49,3
+CGGA_1488,yes,included,-0.4917,-0.5614,2.6163,-0.5506,-1.273609,-1.17146,84.961,0,WHO II,Mutant,Male,31,1
+CGGA_1491,no,grade IV or ungraded (not in the LGG analysis set),1.0942,3.6584,-0.2535,-0.4527,1.821577,1.735775,8.0821,1,WHO IV,Mutant,Male,29,
+CGGA_1492,no,grade IV or ungraded (not in the LGG analysis set),0.1705,0.6429,0.4807,1.0751,0.743216,0.966962,8.8049,1,WHO IV,Wildtype,Female,47,
+CGGA_1494,no,grade IV or ungraded (not in the LGG analysis set),-1.2334,-0.7219,-0.6253,-0.8066,-0.891109,-1.267739,8.8378,1,WHO IV,Wildtype,Male,21,
+CGGA_1496,no,grade IV or ungraded (not in the LGG analysis set),-0.2677,0.6365,0.9383,-0.662,-0.314712,-0.201921,10.8419,1,WHO IV,Mutant,Female,42,
+CGGA_1497,yes,included,0.8211,5.2769,-0.9113,-0.5953,2.589451,3.297194,38.7023,1,WHO III,Mutant,Female,24,3
+CGGA_1498,no,grade IV or ungraded (not in the LGG analysis set),-1.029,-0.7027,-0.673,-0.4827,-0.662734,-0.855975,,NA,WHO IV,Wildtype,Male,69,
+CGGA_1500,no,grade IV or ungraded (not in the LGG analysis set),-0.7184,-0.0925,-0.1422,0.2079,-0.094827,0.090812,3.5483,1,WHO IV,Wildtype,Female,45,
+CGGA_1501,no,grade IV or ungraded (not in the LGG analysis set),2.1419,-0.6705,-1.4929,-0.2627,0.471303,-0.579004,7.2936,1,WHO IV,NA,Male,58,
+CGGA_1502,yes,included,-0.1892,-0.3912,-0.87,-0.4947,-0.260406,-0.587339,84.271,0,WHO II,Mutant,Female,27,2
+CGGA_1503,no,grade IV or ungraded (not in the LGG analysis set),-0.9487,-0.7219,-0.4314,-0.3473,-0.643502,-1.045815,25.5277,1,WHO IV,Wildtype,Male,47,
+CGGA_1504,yes,included,-0.4453,-0.5999,-1.3086,-0.7079,-0.421246,-0.465236,84.0411,0,WHO III,Mutant,Female,44,2
+CGGA_1505,no,grade IV or ungraded (not in the LGG analysis set),1.6297,-0.0989,-0.2026,0.1499,0.494941,0.16536,5.6509,1,WHO IV,Mutant,Male,30,
+CGGA_1507,no,grade IV or ungraded (not in the LGG analysis set),0.9112,-0.5036,0.1406,-0.228,-0.140983,1.513891,23.4908,1,WHO IV,Wildtype,Female,41,
+CGGA_1508,yes,included,-0.3498,-0.5838,-0.9622,-0.2714,-0.262197,0.094421,34.4641,1,WHO III,Mutant,Male,39,2
+CGGA_1510,yes,included,1.0344,0.2254,-1.191,-0.3873,0.469116,0.278773,8.9035,1,WHO III,Mutant,Male,40,3
+CGGA_1513,yes,included,-0.357,-0.298,-0.2344,-0.4713,-0.400567,-0.531693,77.2731,1,WHO III,Mutant,Female,36,2
+CGGA_1514,yes,included,-0.5426,-0.677,-0.781,-0.558,-0.535669,-1.303913,2.4969,1,WHO II,Wildtype,Female,57,1
+CGGA_1516,yes,included,0.6622,-0.3526,0.0485,-0.5426,-0.26424,-0.229641,83.1211,0,WHO II,Mutant,Male,46,2
+CGGA_1517,yes,included,0.0678,-0.51,-0.2217,-0.342,-0.330162,-0.750617,83.1211,0,WHO II,Mutant,Male,42,2
+CGGA_1518,yes,included,3.1344,-0.0893,0.2328,0.3519,0.88114,1.547704,13.5031,1,WHO III,Wildtype,Female,19,3
+CGGA_1520,no,grade IV or ungraded (not in the LGG analysis set),-0.9933,-0.6545,-0.4759,-0.0687,-0.47957,0.004676,9.7577,1,WHO IV,Wildtype,Female,67,
+CGGA_1521,no,grade IV or ungraded (not in the LGG analysis set),0.1651,-0.2113,1.2212,2.4795,0.843161,1.451325,6.7351,1,WHO IV,Wildtype,Female,63,
+CGGA_1523,yes,included,0.4721,-0.5453,0.8144,-0.212,-0.426298,-0.640904,82.3984,0,WHO II,Mutant,Male,50,2
+CGGA_1524,yes,included,-0.6622,-0.0925,0.4457,-0.4447,-0.533092,-0.039505,32.9856,1,WHO III,Mutant,Male,36,1
+CGGA_1525,yes,included,-0.141,-0.6095,-1.1338,-0.8013,-0.433473,-0.924161,55.3922,1,WHO III,NA,Male,41,2
+CGGA_1526,yes,included,-0.6863,-0.2466,1.5612,-0.3607,-0.835857,-0.709066,82.2012,0,WHO III,Mutant,Male,39,1
+CGGA_1527,yes,included,-0.1098,-0.0829,-0.0373,-0.1014,-0.106483,-0.349277,56.3121,1,WHO III,Mutant,Male,47,3
+CGGA_1528,yes,included,-0.0821,-0.5357,-0.6285,-0.1334,-0.183965,-0.588798,82.037,0,WHO II,Mutant,Female,27,3
+CGGA_1529,no,grade IV or ungraded (not in the LGG analysis set),0.0205,0.3667,-0.7461,-0.148,0.281785,0.018325,19.154,1,WHO IV,Wildtype,Male,63,
+CGGA_1530,yes,included,-0.1901,-0.7701,-0.7937,-0.8339,-0.617134,-1.394035,82.037,0,WHO III,NA,Male,41,1
+CGGA_1531,no,overall survival missing,-0.3016,-0.5581,1.5008,-0.68,-1.019692,-1.190203,,NA,WHO III,Mutant,Male,36,
+CGGA_1533,yes,included,0.1598,-0.465,-0.8414,0.4158,0.225253,0.67993,39.9836,1,WHO III,Wildtype,Female,61,3
+CGGA_1534,no,grade IV or ungraded (not in the LGG analysis set),-0.0062,-0.5678,-0.6888,-0.56,-0.369466,0.501739,0.8871,1,WHO IV,Mutant,Female,58,
+CGGA_1535,no,grade IV or ungraded (not in the LGG analysis set),-0.4801,-0.7123,-0.6062,-0.0401,-0.329144,1.287671,7.6222,1,WHO IV,Mutant,Male,43,
+CGGA_1536,yes,included,-0.4435,-0.4746,0.8239,-0.6506,-0.842525,-1.531913,27.5975,1,WHO II,Mutant,Male,53,1
+CGGA_1537,no,grade IV or ungraded (not in the LGG analysis set),0.8853,0.1066,-0.6952,1.9916,1.398381,2.157436,3.1869,1,WHO IV,Wildtype,Male,73,
+CGGA_1538,no,grade IV or ungraded (not in the LGG analysis set),0.1116,0.5626,-0.4473,5.3569,2.964855,2.633891,8.115,1,WHO IV,Wildtype,Female,57,
+CGGA_1539,no,grade IV or ungraded (not in the LGG analysis set),-0.1937,-0.3879,0.4298,-0.6026,-0.62106,-0.721313,80.8871,0,WHO IV,Mutant,Male,61,
+CGGA_1541,no,grade IV or ungraded (not in the LGG analysis set),-0.3713,1.3012,-0.2344,-0.1061,0.512255,1.103861,2.2012,1,WHO IV,Wildtype,Female,50,
+CGGA_1542,no,grade IV or ungraded (not in the LGG analysis set),-1.178,-0.7444,-1.1497,-0.8333,-0.775287,-1.599706,6.0452,0,WHO IV,Mutant,Male,26,
+CGGA_1543,no,grade IV or ungraded (not in the LGG analysis set),0.5632,-0.131,-0.9558,-0.0094,0.307508,0.646761,23.7536,1,WHO IV,Mutant,Male,57,
+CGGA_1544,yes,included,-0.0553,-0.2081,-0.638,-0.628,-0.260107,-0.821545,6.8337,1,WHO III,Mutant,Female,38,2
+CGGA_1546,no,grade IV or ungraded (not in the LGG analysis set),1.6288,-0.4329,-0.5903,1.3997,1.031432,1.668276,7.3265,1,WHO IV,Wildtype,Male,56,
+CGGA_1548,no,grade IV or ungraded (not in the LGG analysis set),0.8827,0.325,-0.5363,1.8556,1.395913,1.644628,34.6283,1,WHO IV,Wildtype,Male,53,
+CGGA_1551,no,grade IV or ungraded (not in the LGG analysis set),2.8934,-0.7573,-1.0225,-0.0527,0.613901,0.238156,11.4004,1,WHO IV,NA,Female,50,
+CGGA_1552,yes,included,-0.3695,-0.4875,-0.1708,-0.2294,-0.390717,-0.777866,79.9014,0,WHO III,Mutant,Male,39,2
+CGGA_1553,yes,included,-0.8291,-0.3526,1.1862,0.1392,-0.592914,-0.559138,17.7413,1,WHO III,Mutant,Male,30,1
+CGGA_1554,yes,included,1.0745,0.4374,1.8599,0.0379,0.055884,0.158513,27.0719,1,WHO III,Mutant,Male,34,3
+CGGA_1557,yes,included,-0.3962,-0.4971,-1.048,-0.0907,-0.126952,-0.561901,79.7372,0,WHO III,Mutant,Male,47,3
+CGGA_1558,no,grade IV or ungraded (not in the LGG analysis set),1.3673,1.5678,-0.6602,0.4338,1.444844,1.970177,4.271,1,WHO IV,Wildtype,Male,71,
+CGGA_1559,no,grade IV or ungraded (not in the LGG analysis set),-0.4114,-0.1246,-0.2789,-0.3387,-0.260043,0.621522,19.8111,1,WHO IV,Mutant,Male,63,
+CGGA_1560,no,grade IV or ungraded (not in the LGG analysis set),0.863,5.9642,0.2169,-0.6939,2.603162,2.949513,15.0801,1,WHO IV,Mutant,Female,35,
+CGGA_1562,yes,included,-0.1535,-0.4682,-0.066,-0.4013,-0.433441,-0.058002,66.7598,1,WHO III,Mutant,Male,51,2
+CGGA_1563,yes,included,1.8813,-0.4554,-0.0183,4.2265,2.305684,2.261761,79.6057,0,WHO II,Wildtype,Female,32,3
+CGGA_1564,no,grade IV or ungraded (not in the LGG analysis set),2.0143,2.4092,-0.8096,-0.1727,1.746583,2.077707,6.2423,1,WHO IV,Wildtype,Male,48,
+CGGA_1565,yes,included,-0.2463,-0.5967,-0.8128,-0.444,-0.359742,-0.352582,46.5544,0,WHO III,Mutant,Female,23,2
+CGGA_1566,yes,included,-0.4667,-0.1567,-0.6412,-0.7599,-0.405035,-0.685031,79.5072,0,WHO III,Mutant,Female,43,2
+CGGA_1567,yes,included,-0.6006,-0.404,-0.603,0.2665,-0.071064,0.029773,27.5975,1,WHO III,Mutant,Female,48,3
+CGGA_1568,yes,included,-0.714,-0.4875,-0.8795,-0.5013,-0.441471,-0.631037,11.3347,0,WHO III,NA,Female,26,2
+CGGA_1569,yes,included,-0.3775,-0.6513,-0.7969,-0.5053,-0.452104,-1.322771,46.193,0,WHO III,Wildtype,Female,27,2
+CGGA_157,yes,included,-0.5033,-0.5421,-0.8764,-0.61,-0.465258,-0.541113,30.0287,1,WHO II,NA,Male,34,2
+CGGA_1571,no,grade IV or ungraded (not in the LGG analysis set),-0.6631,-0.6802,-0.5172,-0.2947,-0.504757,-0.139106,13.5359,0,WHO IV,Mutant,Female,43,
+CGGA_1572,no,grade IV or ungraded (not in the LGG analysis set),-0.299,-0.3237,-1.1528,-0.0814,0.007973,-0.750713,5.2567,1,WHO IV,Wildtype,Female,60,
+CGGA_1575,yes,included,0.7577,0.5947,-0.5681,-0.4093,0.41016,0.345293,4.2382,1,WHO III,Mutant,Male,37,3
+CGGA_1579,yes,included,-0.9014,-0.7283,-0.2026,-0.3513,-0.690619,0.011613,78.7844,0,WHO II,Wildtype,Male,37,1
+CGGA_1580,yes,included,-0.2999,-0.4297,1.5263,-0.3027,-0.784822,-0.826431,51.9425,1,WHO III,Mutant,Female,34,1
+CGGA_1583,yes,included,-0.7854,-0.6866,0.3027,-0.0294,-0.607139,0.859093,52.7639,1,WHO II,NA,Female,51,1
+CGGA_1586,no,grade IV or ungraded (not in the LGG analysis set),0.9041,0.4791,0.023,0.3932,0.63857,1.252841,7.6222,1,WHO IV,Wildtype,Female,55,
+CGGA_1587,yes,included,1.3851,0.72,-0.1518,-0.5513,0.463071,0.318134,24.6407,1,WHO III,Mutant,Female,30,3
+CGGA_1588,yes,included,0.3722,-0.7059,-1.4103,-0.598,-0.182391,-0.899179,65.807,0,WHO III,Wildtype,Female,24,3
+CGGA_1589,yes,included,-1.0745,-0.5935,0.6523,-0.0387,-0.726255,-0.442911,11.2361,1,WHO II,Wildtype,Male,49,1
+CGGA_1591,yes,included,-0.4435,-0.5774,1.5898,-0.2714,-0.890493,-0.408904,37.2238,1,WHO III,Mutant,Male,54,1
+CGGA_1592,yes,included,-0.1722,0.1548,5.448,-0.3853,-1.453496,-0.732627,52.1725,1,WHO III,Mutant,Male,37,1
+CGGA_1594,yes,included,0.307,-0.7862,-1.566,-0.7286,-0.26203,-1.712344,15.77,0,WHO II,NA,Male,25,2
+CGGA_1595,no,grade IV or ungraded (not in the LGG analysis set),1.1665,-0.2659,-1.566,-0.7406,0.195257,-0.648695,77.6345,0,WHO IV,NA,Female,34,
+CGGA_1596,no,grade IV or ungraded (not in the LGG analysis set),2.1741,0.6076,-0.8573,-0.284,0.910651,1.990553,6.7351,1,WHO IV,Wildtype,Male,63,
+CGGA_1597,no,grade IV or ungraded (not in the LGG analysis set),0.2303,-0.0058,-0.4028,0.6551,0.46675,1.333093,5.7166,1,WHO IV,Wildtype,Male,58,
+CGGA_1598,yes,included,-0.0053,3.6873,-0.6952,0.0326,1.888897,2.51598,18.5298,1,WHO III,Wildtype,Male,31,3
+CGGA_1601,no,grade IV or ungraded (not in the LGG analysis set),0.2365,1.465,0.6936,0.1099,0.627884,1.337547,23.3265,1,WHO IV,Wildtype,Male,66,
+CGGA_1603,no,grade IV or ungraded (not in the LGG analysis set),0.075,1.0636,0.4076,-0.2554,0.292983,2.522594,11.6961,1,WHO IV,Wildtype,Male,18,
+CGGA_1604,no,grade IV or ungraded (not in the LGG analysis set),3.7341,-0.0507,-0.8382,0.2279,1.24916,3.507284,24.3121,1,WHO IV,Mutant,Male,46,
+CGGA_1605,no,grade IV or ungraded (not in the LGG analysis set),-1.004,-0.5549,-0.066,-0.0487,-0.524124,0.184684,10.5462,1,WHO IV,Wildtype,Male,34,
+CGGA_1606,yes,included,0.1955,2.8331,0.147,-0.7126,0.987064,1.341233,15.4743,1,WHO III,Wildtype,Female,28,3
+CGGA_1607,yes,included,0.9532,-0.009,-0.1708,-0.1214,0.224329,-0.004917,43.7947,1,WHO II,Mutant,Female,35,3
+CGGA_1608,yes,included,-0.3597,1.4104,-0.3774,0.5532,0.916,2.072479,64.1643,0,WHO III,Mutant,Male,38,3
+CGGA_1610,yes,included,2.448,-0.7701,-1.6232,-0.7353,0.308561,-0.770188,34.7598,1,WHO III,NA,Male,39,3
+CGGA_1611,no,grade IV or ungraded (not in the LGG analysis set),0.7568,2.5569,-0.3933,-0.5353,1.217507,1.943793,38.0452,1,WHO IV,Mutant,Female,30,
+CGGA_1612,no,grade IV or ungraded (not in the LGG analysis set),2.9862,1.2852,0.1152,0.4878,1.573215,1.357949,23.5893,1,WHO IV,Wildtype,Male,68,
+CGGA_1613,no,grade IV or ungraded (not in the LGG analysis set),0.1705,0.4631,-0.4314,0.3959,0.551125,1.103511,8.2136,0,WHO IV,Wildtype,Male,53,
+CGGA_1614,yes,included,-0.3838,-0.5421,-0.5903,-0.7319,-0.560918,-0.23679,35.4497,1,WHO III,Mutant,Male,51,1
+CGGA_1615,no,grade IV or ungraded (not in the LGG analysis set),2.0179,-0.7701,-1.6518,-0.628,0.255772,-1.27016,19.2526,1,WHO IV,Wildtype,Male,48,
+CGGA_1617,yes,included,-0.6345,-0.6352,-1.1751,-0.6986,-0.513744,-0.207746,75.8932,0,WHO II,NA,Female,35,2
+CGGA_1618,yes,included,-0.4061,-0.2948,-0.0882,-0.7326,-0.571822,-0.84392,76.1889,0,WHO III,Mutant,Male,31,1
+CGGA_1619,yes,included,-0.4239,-0.2499,-0.9876,-0.4673,-0.214423,-0.325976,25.1663,1,WHO III,Mutant,Male,44,3
+CGGA_1620,yes,included,-0.6381,-0.5614,0.0802,-0.226,-0.552435,-0.048642,75.9589,0,WHO III,Mutant,Male,51,1
+CGGA_1621,yes,included,-0.3391,-0.2595,-0.0564,-0.5906,-0.477645,-0.799011,75.9261,0,WHO II,Mutant,Female,48,2
+CGGA_1623,yes,included,-0.2999,-0.7059,-0.2757,1.8576,0.551737,1.691771,75.7947,0,WHO III,Wildtype,Female,16,3
+CGGA_1624,no,grade IV or ungraded (not in the LGG analysis set),0.4552,1.2499,0.2264,-0.4993,0.403585,1.019936,2.8583,1,WHO IV,Mutant,Female,27,
+CGGA_1626,no,grade IV or ungraded (not in the LGG analysis set),1.3914,-0.0475,-0.0183,-0.1534,0.267962,0.979885,22.8665,1,WHO IV,Wildtype,Male,66,
+CGGA_1627,yes,included,-0.315,-0.4361,-0.1899,-0.4667,-0.462097,-0.256755,75.5975,0,WHO III,Mutant,Male,37,2
+CGGA_1630,yes,included,-0.4328,-0.738,-1.3054,-0.67,-0.464569,-0.492318,70.9651,0,WHO II,NA,Male,26,2
+CGGA_1631,no,grade IV or ungraded (not in the LGG analysis set),1.3575,0.4984,-0.3011,1.2257,1.240878,2.60246,7.2608,1,WHO IV,Wildtype,Female,58,
+CGGA_1634,no,grade IV or ungraded (not in the LGG analysis set),1.7546,0.1227,-0.7079,-0.5226,0.427614,3.394403,12.0246,1,WHO IV,Wildtype,Female,26,
+CGGA_1635,no,grade IV or ungraded (not in the LGG analysis set),-1.3199,-0.7155,-1.3372,-0.7659,-0.721635,-1.509367,10.9076,1,WHO IV,Wildtype,Female,43,
+CGGA_1640,yes,included,-0.1053,-0.587,-1.2228,-0.604,-0.298058,-0.189965,74.4805,0,WHO III,NA,Male,55,2
+CGGA_1641,no,grade IV or ungraded (not in the LGG analysis set),0.6426,1.616,-0.6761,0.2252,1.183823,2.179337,9.5606,1,WHO IV,Wildtype,Female,57,
+CGGA_1642,yes,included,-0.34,-0.6256,-1.1147,-0.7659,-0.479892,-0.206455,74.4476,0,WHO II,Mutant,Male,48,2
+CGGA_1643,no,grade IV or ungraded (not in the LGG analysis set),0.2811,0.8902,-0.3838,-0.6173,0.280507,2.463989,,NA,WHO IV,Wildtype,Female,50,
+CGGA_1644,no,grade IV or ungraded (not in the LGG analysis set),1.1129,0.1034,-0.5299,-0.43,0.255115,0.260208,5.6838,1,WHO IV,Wildtype,Male,48,
+CGGA_1645,yes,included,-0.3204,-0.298,-0.3424,-0.4587,-0.359343,-0.509044,65.577,0,WHO III,Mutant,Male,59,2
+CGGA_1647,yes,included,-0.2294,-0.754,-1.4071,-0.8366,-0.475196,-1.519827,73.232,0,WHO II,NA,Male,40,2
+CGGA_1648,yes,included,-0.7211,-0.7573,-1.5374,-0.7973,-0.553781,-1.528915,57.3963,0,WHO III,NA,Female,45,1
+CGGA_1649,yes,included,0.1651,-0.738,-1.3944,-0.7593,-0.331862,-1.611951,73.1006,0,WHO II,Mutant,Male,36,2
+CGGA_165,yes,included,-0.4971,-0.6962,-1.5342,-0.6606,-0.402898,-1.463244,6.0123,0,WHO II,NA,Male,34,2
+CGGA_1650,no,grade IV or ungraded (not in the LGG analysis set),-0.622,-0.6673,-0.0977,0.2312,-0.33581,-0.529831,42.152,1,WHO IV,Mutant,Male,36,
+CGGA_1651,yes,included,-0.8585,-0.5453,-0.2026,-0.0967,-0.472607,0.205936,27.6632,1,WHO II,Mutant,Female,44,2
+CGGA_1653,yes,included,0.1428,-0.6416,-1.4929,-0.7799,-0.279434,-1.037999,72.8378,0,WHO II,NA,Female,47,2
+CGGA_1654,no,grade IV or ungraded (not in the LGG analysis set),2.1999,-0.2017,-0.978,0.3032,0.852514,-0.243061,,NA,WHO IV,Wildtype,Male,61,
+CGGA_1655,yes,included,-0.456,-0.5036,-0.8128,-0.2687,-0.286653,-0.931418,39.7207,0,WHO II,Mutant,Male,48,2
+CGGA_1656,no,grade IV or ungraded (not in the LGG analysis set),1.8394,0.9865,0.5093,4.0792,2.767125,4.839045,4.8953,1,WHO IV,Wildtype,Male,56,
+CGGA_1657,yes,included,-0.1401,-0.677,-0.9145,-0.4367,-0.341832,-0.577701,72.7721,0,WHO III,NA,Female,20,2
+CGGA_1658,no,grade IV or ungraded (not in the LGG analysis set),-0.7452,-0.6384,-0.0596,0.7091,-0.134105,0.811303,51.7125,1,WHO IV,Wildtype,Female,64,
+CGGA_1659,no,grade IV or ungraded (not in the LGG analysis set),0.1972,-0.0411,1.3737,0.6451,0.014443,0.261286,12.7146,1,WHO IV,Wildtype,Male,24,
+CGGA_1660,no,overall survival missing,0.4079,-0.4361,-1.1115,-0.7453,-0.189832,-1.364376,,NA,WHO II,Wildtype,Male,41,
+CGGA_1661,yes,included,-0.091,-0.7155,-1.4738,-0.8459,-0.410218,-1.659259,72.5749,0,WHO III,NA,Female,42,2
+CGGA_1662,yes,included,0.2927,-0.6577,-0.3647,-0.4587,-0.362493,-0.691454,49.0513,0,WHO II,Mutant,Female,55,2
+CGGA_1663,no,grade IV or ungraded (not in the LGG analysis set),-0.7416,-0.6609,-0.5999,0.3745,-0.175535,-0.061727,9.5277,1,WHO IV,Wildtype,Male,61,
+CGGA_1664,yes,included,-0.6238,-0.571,-0.1676,-0.2467,-0.504154,0.006494,50.2012,1,WHO II,Mutant,Female,40,2
+CGGA_1666,no,grade IV or ungraded (not in the LGG analysis set),-1.1432,-0.677,0.4076,-0.7653,-1.072885,-0.944314,8.1807,1,WHO IV,Wildtype,Male,60,
+CGGA_1667,yes,included,-0.3159,-0.4361,0.1438,-0.2274,-0.426961,-0.513701,71.6222,0,WHO III,Mutant,Female,40,2
+CGGA_1669,yes,included,2.6417,1.1246,0.5442,-0.568,0.80149,0.178486,4.5667,1,WHO III,Wildtype,Female,44,3
+CGGA_1670,yes,included,1.5966,-0.0347,-0.6761,-0.0141,0.550207,-0.851214,11.9918,1,WHO III,Wildtype,Female,30,3
+CGGA_1671,yes,included,0.0411,3.896,-0.3869,-0.6626,1.590932,0.722633,71.2279,0,WHO III,Mutant,Female,26,3
+CGGA_1672,no,overall survival missing,-0.6336,-0.7637,-1.4992,-0.5773,-0.437774,-1.070502,,NA,WHO III,NA,Female,49,
+CGGA_1673,yes,included,-0.5622,-0.5325,0.7667,-0.3254,-0.730377,-0.180589,70.9651,0,WHO II,Mutant,Female,23,1
+CGGA_1675,yes,included,0.8693,0.0809,-0.2598,-0.6913,-0.007762,-0.474254,70.768,0,WHO III,Mutant,Male,38,3
+CGGA_1677,no,overall survival missing,-0.1919,-0.7316,-1.4071,-0.7999,-0.437519,-1.611976,,NA,WHO II,NA,Female,39,
+CGGA_1678,no,grade IV or ungraded (not in the LGG analysis set),-0.772,-0.7251,-0.692,-0.5033,-0.612171,-1.156907,21.5852,1,WHO IV,Wildtype,Male,51,
+CGGA_1679,yes,included,-0.8568,-0.754,-1.3372,-0.7273,-0.601382,-1.001149,70.5051,0,WHO III,Mutant,Female,52,1
+CGGA_1680,yes,included,1.0728,0.3892,-0.3615,-0.4233,0.340365,3.305263,19.5811,1,WHO III,Mutant,Male,45,3
+CGGA_1681,no,grade IV or ungraded (not in the LGG analysis set),0.1892,-0.1985,-1.2037,-0.304,0.0974,0.021398,11.3676,1,WHO IV,Wildtype,Female,58,
+CGGA_1682,no,grade IV or ungraded (not in the LGG analysis set),-0.4534,-0.0957,0.808,0.4872,-0.120009,0.003172,11.3347,1,WHO IV,Wildtype,Male,67,
+CGGA_1684,no,grade IV or ungraded (not in the LGG analysis set),-0.2178,-0.0218,-0.7588,0.7431,0.47051,0.403806,,NA,WHO IV,Wildtype,Male,51,
+CGGA_1685,yes,included,-0.4543,2.0495,0.0389,-0.2487,0.704266,-0.316018,7.3922,1,WHO III,Mutant,Male,33,3
+CGGA_1686,yes,included,1.3539,0.1965,-1.0829,0.2825,0.833726,0.44427,24.4764,1,WHO III,Wildtype,Male,27,3
+CGGA_1687,no,grade IV or ungraded (not in the LGG analysis set),2.5498,-0.0379,1.1417,-0.404,0.175363,0.267134,69.5852,0,WHO IV,Wildtype,Male,14,
+CGGA_1688,yes,included,5.2308,-0.6127,2.6068,1.9582,1.38527,0.981606,1.6756,1,WHO III,Wildtype,Female,51,3
+CGGA_1689,yes,included,-0.2133,-0.3398,-0.0946,-0.6973,-0.524444,-0.44209,69.5852,0,WHO II,Mutant,Male,45,1
+CGGA_1690,no,grade IV or ungraded (not in the LGG analysis set),1.5395,1.221,0.4521,1.5296,1.589404,1.141343,19.4497,1,WHO IV,Wildtype,Male,60,
+CGGA_1693,yes,included,0.7577,-0.3655,-0.8064,0.3939,0.406907,-0.668778,16.9856,1,WHO III,NA,Male,61,3
+CGGA_1694,no,grade IV or ungraded (not in the LGG analysis set),0.3632,0.8838,-0.6698,-0.3827,0.479278,0.792019,20.501,1,WHO IV,Wildtype,Male,55,
+CGGA_1695,yes,included,0.0214,-0.1503,-0.8033,-0.7406,-0.228202,-0.314357,68.7967,0,WHO III,Mutant,Male,45,2
+CGGA_1696,yes,included,-1.187,-0.7637,-0.6094,-0.8353,-0.916004,-1.276383,39.5893,0,WHO III,Wildtype,Male,72,1
+CGGA_1697,no,grade IV or ungraded (not in the LGG analysis set),-0.3579,-0.2145,-0.1136,0.4358,0.044196,-0.221036,2.924,1,WHO IV,Wildtype,Female,47,
+CGGA_1698,no,grade IV or ungraded (not in the LGG analysis set),1.0049,0.4213,-0.3774,2.3395,1.666388,0.845569,12.7474,1,WHO IV,Wildtype,Female,55,
+CGGA_1699,no,grade IV or ungraded (not in the LGG analysis set),-1.1441,-0.7027,-0.6221,-0.8213,-0.866924,-1.277622,68.5996,0,WHO IV,Mutant,Female,41,
+CGGA_1700,yes,included,-0.3695,-0.449,-0.1772,-0.4473,-0.475861,-0.245716,68.2053,0,WHO III,Mutant,Male,49,2
+CGGA_1701,yes,included,-0.4444,-0.465,-0.6221,-0.6086,-0.474166,-0.894548,55.7207,0,WHO III,Mutant,Male,44,2
+CGGA_1702,no,grade IV or ungraded (not in the LGG analysis set),1.1566,3.7869,-0.031,0.0566,2.088528,1.580006,5.5195,1,WHO IV,Wildtype,Female,29,
+CGGA_1703,yes,included,-0.6238,-0.6513,-0.7619,-0.4527,-0.498761,-0.749585,52.3039,0,WHO II,Mutant,Female,30,2
+CGGA_1704,yes,included,-0.3739,-0.6352,-1.1147,-0.628,-0.42695,-1.259985,67.8111,0,WHO II,Wildtype,Female,32,2
+CGGA_1706,no,grade IV or ungraded (not in the LGG analysis set),3.6029,-0.526,-0.4982,0.5532,1.070056,1.807812,67.9425,0,WHO IV,Wildtype,Male,60,
+CGGA_1708,no,grade IV or ungraded (not in the LGG analysis set),0.6292,0.887,0.9542,0.1939,0.439583,1.668222,36.8624,1,WHO IV,Wildtype,Female,54,
+CGGA_1709,no,grade IV or ungraded (not in the LGG analysis set),2.1839,1.754,-0.3107,-0.2627,1.324829,2.460705,13.6345,1,WHO IV,Wildtype,Male,47,
+CGGA_1713,no,grade IV or ungraded (not in the LGG analysis set),0.6845,4.8434,0.1343,0.1899,2.481026,1.69342,10.9076,1,WHO IV,Wildtype,Male,62,
+CGGA_1714,yes,included,-0.3454,-0.0925,-0.9336,-0.574,-0.185197,-0.21572,66.8255,0,WHO III,NA,Female,37,3
+CGGA_1715,yes,included,0.0366,-0.3687,0.4139,1.1917,0.311541,0.383073,66.7926,0,WHO II,Wildtype,Female,12,3
+CGGA_1716,yes,included,0.0295,-0.2916,-0.2026,-0.208,-0.179131,-0.261516,31.2444,1,WHO III,Mutant,Male,38,3
+CGGA_1718,yes,included,-0.1437,-0.449,-0.1963,-0.692,-0.530337,-0.443614,65.577,0,WHO III,Mutant,Female,37,1
+CGGA_1720,yes,included,-0.6497,-0.0989,0.9669,-0.3993,-0.635096,-0.866173,65.5113,0,WHO II,Mutant,Male,35,1
+CGGA_1721,yes,included,-0.3945,-0.5614,-0.9399,-0.56,-0.406989,-0.620464,65.5113,0,WHO III,NA,Female,46,2
+CGGA_1722,no,grade IV or ungraded (not in the LGG analysis set),-1.0817,-0.5742,-0.8827,-0.7779,-0.708481,-0.660116,11.4661,1,WHO IV,Wildtype,Female,60,
+CGGA_1723,yes,included,-0.4212,-0.3494,-0.1168,-0.434,-0.451047,-0.647507,65.2485,0,WHO III,Mutant,Female,39,2
+CGGA_1725,yes,included,0.3927,0.1066,0.1311,-0.57,-0.153705,-0.37659,65.1499,0,WHO III,Mutant,Female,33,3
+CGGA_1727,no,grade IV or ungraded (not in the LGG analysis set),-0.1883,-0.6063,-0.7365,-0.7373,-0.508014,-0.934183,65.0513,0,WHO IV,Mutant,Male,48,
+CGGA_1728,no,grade IV or ungraded (not in the LGG analysis set),0.3088,1.07,-0.5236,0.1226,0.759069,1.288034,30.1273,1,WHO IV,Mutant,Male,45,
+CGGA_1729,no,grade IV or ungraded (not in the LGG analysis set),-0.7532,-0.2723,-0.8954,0.2265,0.000948,-0.281489,8.0164,1,WHO IV,Wildtype,Male,52,
+CGGA_1731,yes,included,-0.2035,-0.1631,-1.2132,-0.3627,-0.013461,-0.269927,64.9199,0,WHO III,Mutant,Female,45,3
+CGGA_1735,no,grade IV or ungraded (not in the LGG analysis set),-0.3668,0.508,3.1185,-0.4213,-0.803073,0.252726,26.7105,1,WHO IV,Wildtype,Male,54,
+CGGA_1736,no,grade IV or ungraded (not in the LGG analysis set),0.1428,-0.221,-0.5045,1.2844,0.670354,1.291901,30.8172,1,WHO IV,Wildtype,Female,57,
+CGGA_1737,yes,included,-0.2106,-0.2595,-0.085,-0.3793,-0.33634,-0.944003,64.1314,0,WHO III,Mutant,Male,33,2
+CGGA_1738,yes,included,-0.025,0.4888,-0.4918,1.9902,1.291496,1.272336,15.4086,1,WHO III,Wildtype,Male,49,3
+CGGA_1739,yes,included,-0.2222,0.1066,0.0898,-0.0981,-0.076326,-0.279515,16.9199,1,WHO III,Mutant,Male,45,3
+CGGA_1740,no,grade IV or ungraded (not in the LGG analysis set),-0.2285,1.7219,-0.5331,-0.1467,0.795701,0.673001,11.9261,1,WHO IV,Wildtype,Female,50,
+CGGA_1743,yes,included,-0.5578,-0.5517,0.2074,-0.0767,-0.485876,-0.409493,44.7146,1,WHO III,Mutant,Female,47,2
+CGGA_1744,no,grade IV or ungraded (not in the LGG analysis set),0.3338,-0.6641,-1.1211,1.1004,0.572675,-0.401869,63.6057,0,WHO IV,NA,Male,51,
+CGGA_1745,yes,included,-1.2718,-0.7155,-0.7461,-0.8219,-0.876661,-1.335664,63.3758,0,WHO III,Mutant,Female,45,1
+CGGA_1747,yes,included,-0.44,-0.6738,-0.9526,-0.6673,-0.519279,-0.767751,9.6263,1,WHO III,NA,Female,27,2
+CGGA_1749,no,grade IV or ungraded (not in the LGG analysis set),1.0754,2.0912,0.7349,1.3017,1.696421,2.792476,13.1745,1,WHO IV,Wildtype,Female,44,
+CGGA_1750,no,grade IV or ungraded (not in the LGG analysis set),-0.5364,-0.3141,-0.1009,0.3679,-0.083659,0.29826,8.2136,1,WHO IV,Wildtype,Female,52,
+CGGA_1758,no,grade IV or ungraded (not in the LGG analysis set),0.797,1.4586,0.29,0.5598,1.081364,0.182184,13.6016,1,WHO IV,Wildtype,Female,45,
+CGGA_1760,yes,included,-0.2909,-0.4939,-0.5363,0.9591,0.283423,0.790494,15.0801,1,WHO II,Wildtype,Male,51,3
+CGGA_1764,no,grade IV or ungraded (not in the LGG analysis set),-0.1142,1.0572,-0.9367,-0.1654,0.604105,0.917463,23.3265,1,WHO IV,Mutant,Male,33,
+CGGA_1767,no,grade IV or ungraded (not in the LGG analysis set),-0.9326,-0.6834,-0.959,-0.8479,-0.736035,-1.290983,2.8255,1,WHO IV,Wildtype,Male,63,
+CGGA_1769,no,grade IV or ungraded (not in the LGG analysis set),-1.1379,-0.5164,1.3419,0.1986,-0.757153,-0.20162,60.9117,0,WHO IV,Wildtype,Female,49,
+CGGA_1770,no,grade IV or ungraded (not in the LGG analysis set),1.0112,3.9378,-0.7556,-0.5206,2.016511,0.687181,8.7721,1,WHO IV,Mutant,Female,43,
+CGGA_1771,yes,included,-0.1892,-0.2948,4.3452,0.4372,-1.009524,-0.369867,35.0883,1,WHO III,Mutant,Male,38,1
+CGGA_1773,no,grade IV or ungraded (not in the LGG analysis set),1.195,1.3912,0.9796,0.0912,0.764106,0.216993,3.4168,1,WHO IV,Wildtype,Female,46,
+CGGA_1776,no,grade IV or ungraded (not in the LGG analysis set),0.0616,-0.4457,1.1926,0.8711,-0.056701,0.028235,8.5092,1,WHO IV,Wildtype,Male,23,
+CGGA_1780,no,grade IV or ungraded (not in the LGG analysis set),-0.9514,-0.587,-1.0956,-0.4013,-0.449552,-1.303134,59.9918,0,WHO IV,Wildtype,Female,57,
+CGGA_1785,no,grade IV or ungraded (not in the LGG analysis set),-0.1571,4.8787,-1.1878,-0.6406,2.196375,0.960773,10.809,1,WHO IV,Mutant,Male,34,
+CGGA_1786,yes,included,-0.6622,-0.5068,-0.0723,-0.618,-0.685002,-0.840193,59.6961,0,WHO III,Mutant,Female,54,1
+CGGA_1791,yes,included,-1.1745,-0.6513,-0.263,-0.7793,-0.916233,-1.265737,28.0903,1,WHO III,Wildtype,Male,55,1
+CGGA_1807,no,grade IV or ungraded (not in the LGG analysis set),-0.357,4.3007,-1.0925,-0.36,1.988691,1.600873,8.115,1,WHO IV,Wildtype,Female,65,
+CGGA_1809,yes,included,0.4159,-0.1599,-0.7874,-0.1047,0.170318,0.357027,11.269,1,WHO III,Wildtype,Male,27,3
+CGGA_1811,no,grade IV or ungraded (not in the LGG analysis set),-0.5953,-0.693,-0.3996,0.5532,-0.114604,0.378073,9.9877,1,WHO IV,Wildtype,Male,64,
+CGGA_1812,no,grade IV or ungraded (not in the LGG analysis set),0.2026,-0.3526,0.3822,1.7336,0.629259,1.043778,25.6263,1,WHO IV,Wildtype,Male,65,
+CGGA_1814,no,grade IV or ungraded (not in the LGG analysis set),1.2459,-0.2595,-0.0501,1.1357,0.75788,-0.258231,7.2608,1,WHO IV,Wildtype,Female,46,
+CGGA_1815,no,grade IV or ungraded (not in the LGG analysis set),0.9398,0.7039,0.9987,0.5118,0.57679,1.352136,6.078,1,WHO IV,Wildtype,Female,45,
+CGGA_1817,no,grade IV or ungraded (not in the LGG analysis set),0.0072,-0.5742,-0.781,0.2719,0.051836,0.81697,13.1088,1,WHO IV,Wildtype,Female,72,
+CGGA_1819,no,grade IV or ungraded (not in the LGG analysis set),1.8305,0.9448,-0.1613,5.239,3.461145,3.806779,33.0185,1,WHO IV,Wildtype,Male,55,
+CGGA_1820,no,grade IV or ungraded (not in the LGG analysis set),0.4489,1.6898,-0.3901,2.7987,2.334116,2.331004,2.5298,1,WHO IV,Wildtype,Female,52,
+CGGA_1826,no,grade IV or ungraded (not in the LGG analysis set),-0.3088,0.0392,-0.0246,0.8498,0.351794,1.505215,1.4456,1,WHO IV,Wildtype,Female,70,
+CGGA_1829,yes,included,-0.8809,-0.6834,0.0961,0.2979,-0.424224,0.114223,26.3162,0,WHO II,Wildtype,Male,23,2
+CGGA_1833,no,grade IV or ungraded (not in the LGG analysis set),0.282,0.8677,0.4775,1.5463,1.102957,0.743223,16.23,1,WHO IV,Wildtype,Female,60,
+CGGA_1840,no,grade IV or ungraded (not in the LGG analysis set),-0.5997,0.4149,0.2519,-0.1947,-0.115778,0.416965,38.7351,0,WHO IV,Wildtype,Female,58,
+CGGA_1850,yes,included,-0.5765,-0.0957,-0.2153,-0.652,-0.454616,-0.791204,24.6407,0,WHO II,Mutant,Male,29,2
+CGGA_1854,yes,included,-0.4266,-0.3333,-0.2662,-0.1241,-0.260826,0.048308,53.4209,0,WHO III,Mutant,Male,36,2
+CGGA_1857,no,grade IV or ungraded (not in the LGG analysis set),-0.3311,-0.2274,-0.3552,-0.3333,-0.266242,0.812956,5.1581,1,WHO IV,Wildtype,Male,46,
+CGGA_1862,yes,included,0.5524,1.7476,0.3917,6.8887,4.16291,1.104026,3.614,1,WHO III,Wildtype,Male,40,3
+CGGA_1863,yes,included,-0.5997,-0.07,0.1279,-0.612,-0.511169,-0.188457,52.3696,0,WHO III,Mutant,Female,50,2
+CGGA_1865,no,grade IV or ungraded (not in the LGG analysis set),0.6408,-0.3912,0.2995,1.0784,0.429982,0.738849,2.924,1,WHO IV,Wildtype,Female,45,
+CGGA_1866,no,grade IV or ungraded (not in the LGG analysis set),2.2356,1.5582,-0.4791,-0.286,1.276266,1.214983,4.1725,1,WHO IV,Wildtype,Male,68,
+CGGA_1870,no,grade IV or ungraded (not in the LGG analysis set),-0.3248,0.7296,0.8525,-0.3887,-0.134825,0.504833,51.1211,0,WHO IV,Mutant,Male,62,
+CGGA_1875,yes,included,1.0406,-0.5774,-0.8668,3.7752,2.017543,1.419804,51.1869,0,WHO II,Wildtype,Female,22,3
+CGGA_1877,no,overall survival missing,-0.3713,-0.4072,-0.6761,-0.5007,-0.363845,-1.153727,,NA,WHO III,Mutant,Male,35,
+CGGA_1880,yes,included,-0.6211,-0.3301,-0.8764,-0.7013,-0.44121,-0.634217,42.7762,0,WHO III,Mutant,Female,37,2
+CGGA_1882,yes,included,-0.4061,-0.3847,-0.9145,-0.4127,-0.263518,-1.334021,50.2998,0,WHO III,Mutant,Male,33,2
+CGGA_1886,no,grade IV or ungraded (not in the LGG analysis set),0.216,1.4297,-0.4855,2.0296,1.807227,1.3535,11.1047,1,WHO IV,Wildtype,Male,31,
+CGGA_1899,no,grade IV or ungraded (not in the LGG analysis set),-0.6417,-0.6095,-0.8414,-0.2094,-0.348451,1.001362,5.7823,1,WHO IV,Wildtype,Male,45,
+CGGA_1901,no,grade IV or ungraded (not in the LGG analysis set),0.656,-0.6192,-0.7683,0.2166,0.168944,1.590429,17.7413,1,WHO IV,Wildtype,Male,60,
+CGGA_1902,yes,included,-0.5435,-0.3687,-0.3202,-0.564,-0.505487,-0.609567,48.5914,0,WHO II,Mutant,Male,33,2
+CGGA_1903,yes,included,-0.274,-0.7765,-1.0639,-0.7706,-0.547143,-1.940811,48.4271,0,WHO III,NA,Female,24,1
+CGGA_1906,yes,included,0.0714,-0.6127,-0.6539,-0.4873,-0.343739,-0.50632,34.6283,1,WHO III,Mutant,Male,57,2
+CGGA_1908,no,grade IV or ungraded (not in the LGG analysis set),-0.2097,1.2434,-0.2376,1.2044,1.156311,0.620684,9.7906,1,WHO IV,Wildtype,Female,42,
+CGGA_1911,no,grade IV or ungraded (not in the LGG analysis set),2.2401,1.3751,3.3727,-0.4827,0.181983,-0.465338,47.6715,0,WHO IV,Wildtype,Male,15,
+CGGA_1912,no,grade IV or ungraded (not in the LGG analysis set),-0.216,-0.7091,-1.4389,-0.3353,-0.202976,-1.671205,16.6571,1,WHO IV,NA,Male,48,
+CGGA_1916,no,grade IV or ungraded (not in the LGG analysis set),1.0977,0.6718,-0.1645,-0.236,0.520761,1.215789,,NA,WHO IV,Mutant,Female,33,
+CGGA_1939,no,overall survival missing,-0.8398,-0.7155,-1.2736,-0.8039,-0.631018,-2.123578,,NA,WHO II,NA,Male,31,
+CGGA_194,yes,included,-0.4203,0.036,0.112,-0.3993,-0.309991,0.090162,75.6961,1,WHO III,Mutant,Female,43,2
+CGGA_1946,no,grade IV or ungraded (not in the LGG analysis set),1.4753,1.3462,1.1671,1.1557,1.281456,0.298015,4.6653,1,WHO IV,Wildtype,Female,51,
+CGGA_1953,no,grade IV or ungraded (not in the LGG analysis set),-0.5265,-0.2274,-0.584,-0.424,-0.305737,0.731577,2.3984,1,WHO IV,Wildtype,Male,47,
+CGGA_1955,no,grade IV or ungraded (not in the LGG analysis set),-0.3061,-0.5838,-0.8287,0.1539,-0.078736,0.110348,15.0144,1,WHO IV,NA,Male,30,
+CGGA_1972,no,grade IV or ungraded (not in the LGG analysis set),0.2526,-0.07,0.004,1.603,0.800481,0.174,42.4148,0,WHO IV,Wildtype,Male,47,
+CGGA_1976,no,grade IV or ungraded (not in the LGG analysis set),6.0063,0.1034,0.3822,-0.1547,1.433442,2.58241,2.3984,1,WHO IV,Wildtype,Female,53,
+CGGA_1985,no,grade IV or ungraded (not in the LGG analysis set),0.9228,1.0668,-0.9208,-0.4733,0.72485,2.528575,12.4846,1,WHO IV,Mutant,Male,41,
+CGGA_1994,yes,included,-0.5551,-0.6063,-0.3679,-0.2727,-0.467624,-0.441577,40.6407,0,WHO III,Mutant,Female,32,2
+CGGA_2002,yes,included,-0.7702,-0.6705,0.0548,0.6498,-0.211106,-0.487483,18.7926,1,WHO II,Mutant,Male,40,3
+CGGA_2003,no,grade IV or ungraded (not in the LGG analysis set),-1.0219,-0.6352,0.0357,0.1839,-0.47859,-0.704285,25.6263,1,WHO IV,Mutant,Male,40,
+CGGA_2006,yes,included,2.1321,-0.4233,-0.3615,-0.4927,0.203981,-1.319851,20.5667,1,WHO III,Mutant,Male,43,3
+CGGA_2008,no,grade IV or ungraded (not in the LGG analysis set),-0.4721,-0.5806,-0.3996,1.3557,0.354129,-0.016013,1.4456,1,WHO IV,Wildtype,Male,56,
+CGGA_2013,yes,included,-0.8371,-0.4746,-0.9653,-0.386,-0.391603,-1.085828,4.5667,1,WHO II,Mutant,Male,41,2
+CGGA_2024,no,grade IV or ungraded (not in the LGG analysis set),-1.1566,-0.6481,0.5569,-0.1034,-0.781083,0.047963,10.7762,1,WHO IV,Wildtype,Female,19,
+CGGA_2038,no,grade IV or ungraded (not in the LGG analysis set),0.2213,0.2543,-1.2069,-0.586,0.181147,-1.207688,,1,WHO IV,Mutant,Male,44,
+CGGA_2039,no,grade IV or ungraded (not in the LGG analysis set),-1.029,-0.6866,-0.7206,-0.0934,-0.457286,-0.396847,23.0637,0,WHO IV,Wildtype,Male,28,
+CGGA_2046,yes,included,-0.448,0.1002,0.3313,-0.1161,-0.203682,-0.444877,8.2464,1,WHO III,Mutant,Male,46,3
+CGGA_2047,no,grade IV or ungraded (not in the LGG analysis set),-0.4551,-0.4233,1.164,-0.5226,-0.841227,-0.214853,19.6468,1,WHO IV,Wildtype,Female,64,
+CGGA_2053,no,grade IV or ungraded (not in the LGG analysis set),-1.1682,-0.7605,-0.3742,0.1566,-0.490012,0.0264,33.8727,0,WHO IV,Wildtype,Male,55,
+CGGA_2056,no,grade IV or ungraded (not in the LGG analysis set),3.2504,0.2768,-0.9494,0.0752,1.22939,-0.170576,33.4784,0,WHO IV,Mutant,Female,41,
+CGGA_2062,no,grade IV or ungraded (not in the LGG analysis set),-0.3802,1.2306,-0.6888,0.4365,0.84549,-0.510214,1.347,1,WHO IV,Mutant,Female,63,
+CGGA_2075,no,grade IV or ungraded (not in the LGG analysis set),-0.0634,-0.5421,0.6904,-0.5793,-0.709683,-0.817355,8.7392,1,WHO IV,Wildtype,Male,63,
+CGGA_2078,no,grade IV or ungraded (not in the LGG analysis set),-0.174,0.0617,-0.0119,1.7363,0.81909,-0.292223,9.1992,1,WHO IV,Wildtype,Female,61,
+CGGA_2079,yes,included,0.0928,-0.0379,0.1533,-0.7453,-0.387465,-1.170146,31.6715,0,WHO III,Mutant,Male,45,2
+CGGA_2081,yes,included,-0.8505,-0.5967,0.5188,-0.6226,-0.918156,-1.4671,31.5729,0,WHO III,Mutant,Female,39,1
+CGGA_2082,no,grade IV or ungraded (not in the LGG analysis set),-0.5176,0.0327,-0.5713,6.3788,3.076271,0.294223,18.7598,0,WHO IV,Wildtype,Male,41,
+CGGA_2088,no,grade IV or ungraded (not in the LGG analysis set),0.042,-0.5357,-0.3329,1.7209,0.666963,-0.28297,,NA,WHO IV,Wildtype,Female,30,
+CGGA_2106,no,grade IV or ungraded (not in the LGG analysis set),1.5324,-0.3333,-0.5299,-0.5013,0.126746,-0.453588,29.306,0,WHO IV,Mutant,Female,39,
+CGGA_2115,no,grade IV or ungraded (not in the LGG analysis set),-1.0094,0.4021,0.1311,-0.2674,-0.233599,0.001739,5.6181,1,WHO IV,Wildtype,Female,31,
+CGGA_2121,yes,included,1.7367,-0.4425,0.0771,0.6898,0.555675,0.618944,11.3676,1,WHO II,Mutant,Female,41,3
+CGGA_2129,yes,included,-0.6006,0.4727,0.6841,-0.336,-0.259793,-0.459372,27.2033,0,WHO III,Mutant,Male,48,2
+CGGA_265,yes,included,-0.0937,-0.0604,-0.1486,-0.4487,-0.231982,0.333433,130.0698,0,WHO II,Mutant,Male,43,2
+CGGA_279,yes,included,-0.2954,1.5935,-0.6888,-0.2467,0.707975,1.12871,43.1704,1,WHO III,Mutant,Female,49,3
+CGGA_28,yes,included,-0.7381,-0.2017,-0.9908,-0.6526,-0.361297,-1.128416,36.2382,1,WHO II,Mutant,Male,25,2
+CGGA_288,yes,included,-0.3971,0.0456,-0.1772,0.1286,0.02241,-0.150286,34.7269,1,WHO II,Mutant,Male,49,3
+CGGA_290,yes,included,-0.4801,-0.2531,0.7635,-0.4507,-0.639001,-0.553203,155.2361,0,WHO II,Mutant,Female,37,1
+CGGA_320,yes,included,-0.6988,-0.3558,1.1798,-0.4807,-0.856508,-0.585004,98.7269,1,WHO II,Mutant,Male,31,1
+CGGA_336,yes,included,-0.4248,-0.2113,0.2296,-0.608,-0.553786,-0.407881,83.7454,1,WHO III,Mutant,Female,57,1
+CGGA_358,yes,included,-0.8202,-0.5967,-0.816,-0.284,-0.430424,-0.900495,4.0082,1,WHO III,Mutant,Female,30,2
+CGGA_362,no,overall survival missing,-0.5622,-0.6416,1.183,-0.2534,-0.845509,-0.406397,,NA,WHO II,Mutant,Female,39,
+CGGA_369,yes,included,-1.0004,-0.6063,-0.3329,0.2212,-0.354065,-0.065437,151.3265,0,WHO II,Mutant,Male,33,2
+CGGA_406,yes,included,-0.4212,3.5877,0.1311,-0.3547,1.353111,1.004665,2.9569,1,WHO III,Mutant,Female,24,3
+CGGA_42,yes,included,-0.3186,-0.3558,0.1438,0.2632,-0.155188,-1.000214,93.0431,1,WHO II,Mutant,Male,38,3
+CGGA_420,yes,included,0.2999,-0.4907,0.1216,0.5892,0.103548,-0.476672,115.4497,0,WHO III,Mutant,Female,39,3
+CGGA_457,yes,included,0.647,1.8183,-0.6571,-0.63,0.864138,1.654021,2.4641,1,WHO III,Mutant,Male,32,3
+CGGA_474,yes,included,-1.0236,1.5549,2.0506,0.2905,0.108039,2.23936,66.6612,0,WHO III,Wildtype,Male,NA,3
+CGGA_482,yes,included,-0.1401,-0.282,1.0591,0.3885,-0.232511,-0.658413,82.4969,1,WHO II,Mutant,Male,45,2
+CGGA_487,no,grade IV or ungraded (not in the LGG analysis set),0.7113,0.7071,1.3292,1.6243,0.974133,1.181448,5.1253,1,WHO IV,Wildtype,Male,46,
+CGGA_492,yes,included,0.8541,1.4393,1.7646,0.2999,0.611731,1.925981,21.4209,0,WHO III,Wildtype,Male,27,3
+CGGA_503,yes,included,-0.5283,-0.6127,1.1894,-0.1181,-0.759983,-0.613556,144.8871,0,WHO II,Mutant,Male,51,1
+CGGA_507,yes,included,-0.5426,-0.5389,0.6142,-0.0014,-0.536656,0.023812,9.922,1,WHO III,Mutant,Female,53,1
+CGGA_509,no,grade IV or ungraded (not in the LGG analysis set),1.3307,2.406,0.29,-0.172,1.307344,2.11792,20.4682,1,WHO IV,Wildtype,Male,38,
+CGGA_521,yes,included,1.2727,0.3089,1.1735,0.2132,0.29485,0.185314,16.8871,1,WHO III,Wildtype,Male,32,3
+CGGA_530,no,grade IV or ungraded (not in the LGG analysis set),0.2151,-0.0283,1.9966,0.3759,-0.252304,0.905909,16.6242,1,WHO IV,Wildtype,Female,41,
+CGGA_554,yes,included,-0.8594,0.0552,-1.3944,-0.578,-0.141726,0.758941,4.4025,1,WHO III,NA,Female,46,3
+CGGA_568,no,grade IV or ungraded (not in the LGG analysis set),-0.5605,-0.3912,-0.1994,-0.1054,-0.329109,-0.01603,9.3634,1,WHO IV,Wildtype,Male,14,
+CGGA_583,yes,included,-1.2075,-0.7508,-1.1592,-0.8626,-0.797663,-1.479602,102.078,1,WHO II,Mutant,Female,36,1
+CGGA_619,yes,included,-0.0758,-0.3687,-0.7492,-0.164,-0.090916,1.044977,18.0698,1,WHO II,Wildtype,Male,40,3
+CGGA_621,no,overall survival missing,-0.6238,0.4149,0.2201,-0.6013,-0.309414,0.241965,,NA,WHO III,Mutant,Male,40,
+CGGA_625,yes,included,-0.2535,0.0103,-0.8033,-0.0854,0.089464,0.154934,80.9856,1,WHO III,Mutant,Female,33,3
+CGGA_634,yes,included,-0.5872,-0.3205,1.1957,0.0726,-0.54982,-0.195906,86.5051,1,WHO III,Mutant,Female,35,1
+CGGA_652,yes,included,-0.697,-0.4136,-0.4155,-0.2647,-0.399763,-0.46509,15.6386,1,WHO III,Mutant,Male,42,2
+CGGA_663,yes,included,-0.5614,-0.5068,2.022,-0.3034,-1.006316,-0.774846,138.3162,0,WHO II,Mutant,Female,29,1
+CGGA_703,yes,included,2.7274,-0.3815,0.2296,0.0932,0.517348,1.3548,44.5175,1,WHO III,Mutant,Female,31,3
+CGGA_705,yes,included,0.1098,0.2286,0.9129,-0.6053,-0.373094,-0.654988,49.5113,1,WHO III,Mutant,Male,41,2
+CGGA_707,yes,included,-0.2999,-0.6256,1.6788,-0.308,-0.914476,-1.114976,108.386,1,WHO II,Mutant,Female,39,1
+CGGA_720,yes,included,0.083,0.6461,-0.5776,-0.4873,0.224665,0.081968,41.3306,1,WHO II,Mutant,Female,46,3
+CGGA_721,yes,included,-0.7363,-0.4811,0.2741,-0.0947,-0.523712,0.307996,83.8439,1,WHO II,Mutant,Male,45,1
+CGGA_724,yes,included,-0.6809,-0.5421,-0.3838,-0.1154,-0.391125,-0.485244,136.2464,0,WHO II,Mutant,Male,32,2
+CGGA_730,yes,included,-0.5819,-0.2884,-0.1136,-0.0847,-0.297505,-0.426641,69.5852,1,WHO II,Mutant,Female,51,2
+CGGA_763,yes,included,-0.8853,-0.693,1.771,0.2805,-0.836572,-0.545354,10.4805,0,WHO III,Wildtype,Male,52,1
+CGGA_777,no,grade IV or ungraded (not in the LGG analysis set),0.7809,0.569,0.8144,5.5243,2.920723,2.272751,4.7967,1,WHO IV,Wildtype,Male,46,
+CGGA_780,yes,included,-0.6568,-0.3655,0.3345,0.2639,-0.292018,0.403211,30.3244,1,WHO III,Wildtype,Female,64,2
+CGGA_799,yes,included,-0.7613,-0.465,-0.3234,-0.5313,-0.589947,0.327595,61.3717,1,WHO III,Mutant,Male,53,1
+CGGA_809,yes,included,0.2338,-0.4939,0.0612,-0.5266,-0.435687,-0.669648,41.1335,1,WHO II,Mutant,Male,26,2
+CGGA_810,yes,included,0.1999,-0.0636,2.7276,1.9642,0.315199,1.453011,18.1027,1,WHO III,Wildtype,Male,20,3
+CGGA_825,yes,included,0.0089,0.0649,-0.7651,0.3579,0.385991,0.335746,27.4661,1,WHO III,Mutant,Male,36,3
+CGGA_831,no,grade IV or ungraded (not in the LGG analysis set),1.0772,0.3732,-0.1104,0.0079,0.481149,0.720307,17.9384,1,WHO IV,Wildtype,Female,55,
+CGGA_846,yes,included,-0.8496,-0.7123,-0.6793,0.9038,0.045454,0.217817,98.2669,0,WHO II,Wildtype,Female,39,3
+CGGA_852,yes,included,0.7247,0.1901,0.4552,0.5971,0.453269,0.707594,5.5524,1,WHO III,Wildtype,Male,40,3
+CGGA_861,yes,included,-0.2775,-0.5485,1.2657,1.1237,-0.08814,0.630377,29.3388,1,WHO III,Wildtype,Male,29,3
+CGGA_862,no,overall survival missing,-0.8309,-0.4522,0.6872,-0.1874,-0.677448,0.05558,,NA,WHO II,Mutant,Male,30,
+CGGA_863,yes,included,-0.6747,-0.7444,0.2391,1.601,0.191571,-0.64,68.1068,1,WHO II,Wildtype,Female,42,3
+CGGA_867,yes,included,0.6435,1.7316,-0.4124,0.4152,1.26599,2.239383,12.0575,1,WHO III,Mutant,Female,40,3
+CGGA_869,no,grade IV or ungraded (not in the LGG analysis set),7.4682,-0.176,-0.9145,-0.3154,1.912752,1.224785,17.6427,0,WHO IV,Wildtype,Female,36,
+CGGA_881,yes,included,1.5895,0.9062,1.7773,-0.148,0.33665,0.276036,8.2793,1,WHO III,Wildtype,Female,23,3
+CGGA_882,yes,included,-0.6917,-0.5549,2.6545,-0.0387,-1.085838,-0.249082,33.117,0,WHO III,Mutant,Male,30,1
+CGGA_883,no,overall survival missing,-0.5042,-0.3847,-0.085,-0.0234,-0.299518,-0.980548,,NA,WHO II,Mutant,Female,39,
+CGGA_887,no,overall survival missing,-0.8103,-0.6063,1.0178,-0.0207,-0.742322,-0.188073,,NA,WHO III,Wildtype,Male,25,
+CGGA_888,yes,included,0.2695,0.386,1.4087,-0.4827,-0.318034,0.055588,21.9795,1,WHO III,Mutant,Male,29,2
+CGGA_889,yes,included,-1.0326,-0.5228,1.3292,-0.1454,-0.894848,-0.192014,129.5441,0,WHO II,Mutant,Male,23,1
+CGGA_890,yes,included,1.7707,-0.3912,0.3345,-0.156,0.1214,-0.377523,97.9713,1,WHO III,Mutant,Male,39,3
+CGGA_901,yes,included,0.7515,-0.4361,1.2625,-0.566,-0.57989,-1.048373,30.5216,1,WHO III,Mutant,Male,40,1
+CGGA_903,yes,included,-0.3025,0.3988,0.1502,-0.0434,0.050251,-0.720003,47.8029,1,WHO III,Mutant,Female,27,3
+CGGA_D19,yes,included,-0.0892,1.3109,0.6237,-0.0227,0.425358,-0.144206,9.7577,1,WHO II,Mutant,Female,64,3
+CGGA_D28,yes,included,-0.8095,0.0167,0.5156,-0.6986,-0.658906,-0.773394,28.2546,1,WHO III,Mutant,Male,25,1
+CGGA_D49,no,grade IV or ungraded (not in the LGG analysis set),0.3374,0.1034,1.825,-0.2154,-0.402392,-1.207389,,NA,NA,Mutant,Female,32,
+CGGA_D50,yes,included,0.4739,-0.5132,1.3101,-0.3094,-0.575555,-0.479109,25.692,1,WHO II,Mutant,Male,30,1
+CGGA_D53,no,grade IV or ungraded (not in the LGG analysis set),1.5065,1.2017,0.843,1.1344,1.289416,1.146214,,NA,WHO IV,Wildtype,Male,30,
+CGGA_J50,yes,included,0.6221,-0.4682,-0.2979,-0.3487,-0.152782,-0.371741,55.6222,1,WHO II,Mutant,Male,27,3
+CGGA_J73,yes,included,0.3061,0.325,0.0866,-0.4233,0.006077,0.076531,37.2567,1,WHO III,Mutant,Female,34,3
+CGGA_P100,no,grade IV or ungraded (not in the LGG analysis set),0.4382,1.2242,-0.0564,-0.3607,0.521067,0.712365,8.8049,1,WHO IV,Wildtype,Male,67,
+CGGA_P102,no,grade IV or ungraded (not in the LGG analysis set),0.349,4.3039,-0.2471,-0.6993,1.808636,2.859913,41.692,1,WHO IV,Mutant,Male,30,
+CGGA_P103,yes,included,-0.2704,-0.2434,1.6852,-0.3387,-0.745937,-1.362547,54.2423,0,WHO II,Mutant,Male,34,1
+CGGA_P104,yes,included,-0.9371,-0.5164,-1.4325,-0.8713,-0.558317,-1.272636,5.4867,1,WHO III,Mutant,Female,36,1
+CGGA_P106,no,grade IV or ungraded (not in the LGG analysis set),1.1772,-0.0925,2.1301,0.5605,0.023081,0.573315,2.3326,1,WHO IV,Wildtype,Male,24,
+CGGA_P107,no,overall survival missing,-0.3248,-0.4811,2.0506,-0.31,-0.94335,-0.997455,,NA,WHO II,Mutant,Male,26,
+CGGA_P108,yes,included,0.1651,-0.2852,1.8599,-0.368,-0.708498,0.323789,54.0123,0,WHO III,Wildtype,Female,30,1
+CGGA_P109,no,grade IV or ungraded (not in the LGG analysis set),1.3066,1.8279,-0.9367,-0.1361,1.342247,0.754264,13.3717,1,WHO IV,Mutant,Male,35,
+CGGA_P11,no,overall survival missing,-0.4052,-0.5196,-0.8191,0.3252,0.00534,-0.452258,,NA,WHO II,Mutant,Female,38,
+CGGA_P110,yes,included,1.9634,1.7862,0.4076,-0.2947,1.096604,0.426199,26.2834,1,WHO III,Wildtype,Female,56,3
+CGGA_P111,yes,included,-0.2026,-0.0218,1.5167,-0.618,-0.719566,-0.508005,53.8152,0,WHO II,Mutant,Female,44,1
+CGGA_P112,no,grade IV or ungraded (not in the LGG analysis set),-0.8487,-0.587,1.6121,-0.0601,-0.90353,-0.575062,27.4004,1,WHO IV,Wildtype,Male,65,
+CGGA_P113,yes,included,-0.9772,-0.6513,1.9521,-0.214,-1.12121,-0.533278,56.115,0,WHO II,Wildtype,Male,32,1
+CGGA_P114,no,overall survival missing,0.0223,-0.3719,0.0326,-0.6446,-0.483494,-1.13196,,1,WHO II,Mutant,Male,32,
+CGGA_P115,yes,included,-1.1316,-0.7637,-0.9908,-0.684,-0.738441,-1.266363,53.4209,0,WHO II,Wildtype,Male,25,1
+CGGA_P116,no,grade IV or ungraded (not in the LGG analysis set),-1.0683,-0.4971,-1.2641,-0.7979,-0.588164,-1.008389,10.0205,1,WHO IV,Wildtype,Male,58,
+CGGA_P121,yes,included,-1.1406,-0.7348,-1.0448,-0.2854,-0.523356,-0.685499,52.8296,0,WHO II,Wildtype,Male,39,1
+CGGA_P122,yes,included,-0.2802,-0.2755,2.3112,-0.582,-1.028958,-0.502768,53.8152,0,WHO II,Mutant,Male,43,1
+CGGA_P128,yes,included,-0.3811,-0.4233,1.9585,-0.0207,-0.770426,-0.26897,52.1068,0,WHO II,Mutant,Male,41,1
+CGGA_P13,yes,included,-0.4194,-0.4457,1.7996,-0.4087,-0.938978,-0.815301,63.6715,0,WHO II,Mutant,Female,40,1
+CGGA_P131,yes,included,-0.2722,-0.4104,0.4362,-0.5473,-0.626738,-0.922648,52.4353,0,WHO III,Mutant,Female,45,1
+CGGA_P132,yes,included,-0.191,-0.6513,0.0548,-0.7693,-0.733136,-0.811342,52.6653,0,WHO II,Mutant,Male,42,1
+CGGA_P136,no,grade IV or ungraded (not in the LGG analysis set),-1.1102,-0.6962,-0.8922,-0.692,-0.728922,-1.187372,27.6632,1,WHO IV,Wildtype,Female,41,
+CGGA_P137,yes,included,0.2124,-0.2049,0.1946,-0.6886,-0.41666,-1.212846,50.1355,0,WHO II,Mutant,Male,42,2
+CGGA_P142,yes,included,-0.3784,-0.4168,0.4934,-0.4247,-0.61193,-0.773317,51.1869,0,WHO III,Mutant,Male,45,1
+CGGA_P143,no,grade IV or ungraded (not in the LGG analysis set),0.6131,-0.2145,0.8144,0.2852,0.001881,1.387625,8.5749,1,WHO IV,Wildtype,Female,66,
+CGGA_P144,yes,included,-0.6595,-0.526,1.1544,-0.5,-0.92849,-1.047156,51.2197,0,WHO III,Mutant,Male,44,1
+CGGA_P145,yes,included,-0.6033,-0.6866,-0.2344,0.2579,-0.294609,-0.316681,10.1191,1,WHO II,Mutant,Male,53,2
+CGGA_P146,no,overall survival missing,-0.6006,0.0713,0.7572,-0.4633,-0.524312,-0.835003,,0,WHO II,Mutant,Male,31,
+CGGA_P147,yes,included,-0.2347,-0.0218,2.467,-0.3467,-0.823819,-0.115714,28.3532,1,WHO II,Mutant,Male,52,1
+CGGA_P15,no,grade IV or ungraded (not in the LGG analysis set),-0.4998,-0.5935,-1.1942,-0.6813,-0.446754,-0.574696,23.7536,1,WHO IV,NA,Male,49,
+CGGA_P150,no,overall survival missing,-0.2517,-0.0122,0.6618,-0.538,-0.486048,-1.025015,,0,WHO II,Mutant,Male,34,
+CGGA_P151,yes,included,-0.4882,-0.5036,-0.5585,-0.434,-0.434697,-0.178803,51.9754,0,WHO II,Mutant,Female,46,2
+CGGA_P153,yes,included,-1.0915,-0.738,-0.2249,-0.8159,-0.961651,-1.289957,48.7556,0,WHO II,Mutant,Male,45,1
+CGGA_P154,no,grade IV or ungraded (not in the LGG analysis set),-0.979,-0.6481,-0.4314,-0.8046,-0.836363,-1.408044,,NA,WHO IV,Mutant,Male,50,
+CGGA_P155,yes,included,0.1098,-0.4522,2.9023,0.7891,-0.493288,-0.533888,48.7228,0,WHO II,Wildtype,Male,50,2
+CGGA_P156,yes,included,-0.0571,-0.1503,0.4616,-0.5213,-0.444213,-1.070283,48.8871,0,WHO II,Mutant,Male,30,2
+CGGA_P157,yes,included,-0.0535,0.4823,1.4055,1.8109,0.743824,1.463165,15.4415,1,WHO III,Wildtype,Female,55,3
+CGGA_P158,yes,included,-1.2164,-0.7476,-0.1422,-0.7986,-1.009719,-1.475363,49.6099,0,WHO II,Mutant,Male,27,1
+CGGA_P159,yes,included,0.3267,-0.6031,-0.2026,-0.2687,-0.275893,1.303444,6.9322,1,WHO III,Wildtype,Male,59,2
+CGGA_P16,no,grade IV or ungraded (not in the LGG analysis set),0.6694,0.4663,1.3928,-0.4993,-0.181808,-0.263779,,NA,WHO IV,Mutant,Male,38,
+CGGA_P160,no,grade IV or ungraded (not in the LGG analysis set),1.2048,0.0071,0.4203,0.7671,0.582194,1.933713,7.1951,1,WHO IV,Wildtype,Female,72,
+CGGA_P163,yes,included,0.1839,0.4438,2.4892,0.1526,-0.265795,0.237865,28.0903,1,WHO III,Mutant,Female,45,2
+CGGA_P164,no,grade IV or ungraded (not in the LGG analysis set),-1.1147,-0.7637,-1.2482,-0.6233,-0.64374,-1.022082,51.0226,0,WHO IV,Wildtype,Male,27,
+CGGA_P165,yes,included,-1.112,-0.7476,-0.7842,-0.7579,-0.810549,-1.428108,19.6468,1,WHO III,Mutant,Female,51,1
+CGGA_P17,yes,included,-0.0214,-0.4939,0.487,-0.1807,-0.437,-0.823054,63.4086,0,WHO III,Mutant,Male,30,2
+CGGA_P172,yes,included,-1.0817,-0.6577,-0.6761,-0.8379,-0.825093,-1.24279,34.4641,1,WHO III,Mutant,Male,33,1
+CGGA_P173,yes,included,-0.3088,-0.5549,1.2466,-0.5293,-0.887328,-0.30664,47.5729,0,WHO II,Mutant,Male,31,1
+CGGA_P174,yes,included,-0.0901,-0.5196,2.4511,-0.4393,-1.057884,-1.089557,48.6899,0,WHO II,Mutant,Male,31,1
+CGGA_P175,no,grade IV or ungraded (not in the LGG analysis set),-0.9853,-0.6738,-0.9653,-0.6786,-0.662464,-1.074883,6.0123,1,WHO IV,Wildtype,Male,45,
+CGGA_P176,yes,included,-0.0009,-0.3623,2.1523,-0.4147,-0.879008,-0.628698,26.4148,0,WHO II,Mutant,Female,32,1
+CGGA_P177,yes,included,0.2356,-0.282,1.8027,-0.5413,-0.758303,0.538331,47.3758,0,WHO II,Wildtype,Male,43,1
+CGGA_P178,no,grade IV or ungraded (not in the LGG analysis set),-1.286,-0.738,-0.9812,-0.7439,-0.797427,-1.436395,47.3758,0,WHO IV,Wildtype,Female,52,
+CGGA_P179,yes,included,-0.4792,-0.4971,1.558,-0.0714,-0.759043,-0.529853,47.77,0,WHO II,Mutant,Female,53,1
+CGGA_P18,yes,included,-0.3677,-0.5838,0.7953,-0.6366,-0.860039,-2.230777,12.7146,1,WHO III,Mutant,Male,40,1
+CGGA_P180,no,grade IV or ungraded (not in the LGG analysis set),-0.4168,-0.632,-1.2259,-0.1287,-0.170657,-0.420669,8.5421,1,WHO IV,Mutant,Male,47,
+CGGA_P181,yes,included,-0.0187,-0.054,0.5188,0.2845,-0.016821,0.134083,7.8193,1,WHO III,Wildtype,Female,21,3
+CGGA_P182,no,grade IV or ungraded (not in the LGG analysis set),2.3356,-0.1471,2.3112,0.8371,0.38639,2.231812,49.6756,0,WHO IV,Wildtype,Female,58,
+CGGA_P183,yes,included,-0.2035,-0.2145,2.1428,-0.544,-0.922572,-0.868837,49.6756,0,WHO III,Mutant,Male,58,1
+CGGA_P185,yes,included,1.3378,1.1407,0.6618,-0.4387,0.506351,1.318646,16.4928,1,WHO III,Mutant,Female,41,3
+CGGA_P19,yes,included,-0.2169,-0.3462,1.218,-0.5067,-0.749163,-0.954518,63.2115,0,WHO II,Mutant,Male,39,1
+CGGA_P199,no,grade IV or ungraded (not in the LGG analysis set),0.5043,0.3732,0.1502,1.9102,1.183462,1.416079,6.6694,1,WHO IV,Wildtype,Male,66,
+CGGA_P20,yes,included,-0.4498,-0.4072,1.2275,-0.294,-0.737888,-0.692071,63.1786,0,WHO II,Mutant,Female,58,1
+CGGA_P205,no,grade IV or ungraded (not in the LGG analysis set),-0.9942,-0.7283,-1.5024,-0.7933,-0.617285,-1.232134,19.154,1,WHO IV,Wildtype,Male,66,
+CGGA_P21,yes,included,-0.3275,0.28,-0.4473,-0.174,0.068203,-0.080346,63.1458,0,WHO II,Mutant,Male,25,3
+CGGA_P22,no,grade IV or ungraded (not in the LGG analysis set),1.0103,1.6866,-0.8636,1.8589,2.139518,2.145166,13.3388,1,WHO IV,Wildtype,Male,62,
+CGGA_P23,yes,included,-1.0942,-0.6994,-1.4071,-0.7593,-0.636072,-0.75747,12.8789,1,WHO III,Wildtype,Female,62,1
+CGGA_P25,no,grade IV or ungraded (not in the LGG analysis set),-0.5935,-0.7123,-0.9622,-0.7753,-0.626284,-0.604976,4.8296,1,WHO IV,Wildtype,Male,64,
+CGGA_P265,yes,included,-0.9755,-0.7091,-1.0194,-0.4913,-0.573637,-1.273028,25.5934,1,WHO III,Wildtype,Male,36,1
+CGGA_P266,yes,included,-1.1406,-0.6127,-0.5045,-0.8646,-0.873069,-1.288175,8.3121,1,WHO III,Wildtype,Female,28,1
+CGGA_P269,yes,included,-0.1749,0.3667,-0.6062,-0.3047,0.122949,-0.122105,16.7885,1,WHO III,Wildtype,Female,47,3
+CGGA_P27,yes,included,-0.1428,-0.3462,1.593,-0.4347,-0.784729,-1.311652,13.5688,0,WHO II,Mutant,Female,37,1
+CGGA_P270,no,overall survival missing,0.0321,-0.3623,0.9161,-0.2994,-0.521097,-0.577041,,1,WHO II,Mutant,Male,33,
+CGGA_P271,yes,included,-1.1673,-0.7605,-1.2482,-0.8493,-0.7642,-1.513011,45.2074,0,WHO II,Mutant,Male,42,1
+CGGA_P279,yes,included,-0.0321,0.2993,0.5029,-0.7186,-0.333789,-0.833422,43.8275,0,WHO III,Mutant,Female,47,2
+CGGA_P28,no,grade IV or ungraded (not in the LGG analysis set),-0.2927,0.4631,0.3313,0.4358,0.26928,0.122575,3.5154,1,WHO IV,Wildtype,Male,61,
+CGGA_P280,no,grade IV or ungraded (not in the LGG analysis set),-1.0995,-0.6063,-0.495,0.1472,-0.376562,0.116713,44.0903,0,WHO IV,Wildtype,Female,52,
+CGGA_P283,no,grade IV or ungraded (not in the LGG analysis set),0.5301,1.4233,0.4902,2.3248,1.794851,-0.001786,43.729,0,WHO IV,Wildtype,Male,38,
+CGGA_P286,yes,included,-0.0294,0.5658,-0.263,-0.3633,0.143024,-0.191767,21.6181,0,WHO II,Mutant,Female,57,3
+CGGA_P29,yes,included,-1.1754,-0.3044,0.7286,-0.8259,-1.013939,-1.397366,3.384,1,WHO III,Mutant,Female,22,1
+CGGA_P295,no,grade IV or ungraded (not in the LGG analysis set),-0.0883,-0.131,-0.4886,0.9438,0.485251,1.610733,8.9692,1,WHO IV,Wildtype,Male,46,
+CGGA_P298,no,overall survival missing,-0.5078,0.4342,-0.2916,-0.4307,-0.066985,-0.057157,,0,WHO III,Mutant,Female,50,
+CGGA_P3,yes,included,-1.2655,-0.7059,-1.4929,-0.8832,-0.722325,-1.483003,69.848,0,WHO III,Mutant,Male,32,1
+CGGA_P30,yes,included,0.2954,3.0514,0.7953,1.7056,2.119489,0.274739,13.2731,1,WHO II,Wildtype,Male,48,3
+CGGA_P306,yes,included,-0.3106,-0.0122,0.433,-0.5126,-0.434676,-0.103914,30.2916,1,WHO II,Mutant,Male,49,2
+CGGA_P308,yes,included,-0.9915,-0.3687,-0.2821,-0.236,-0.472963,-0.085299,18.4969,1,WHO III,Mutant,Male,38,2
+CGGA_P31,yes,included,-0.5381,-0.6481,0.3218,1.0997,0.011464,0.455924,61.8645,0,WHO II,Wildtype,Male,42,3
+CGGA_P310,yes,included,-0.8737,-0.7219,-1.7567,-0.8033,-0.527517,-1.544859,7.3593,1,WHO III,NA,Female,47,1
+CGGA_P311,yes,included,0.1981,-0.3815,-0.835,-0.194,-0.020108,0.418083,40.9692,0,WHO II,Mutant,Male,36,3
+CGGA_P314,yes,included,-0.3177,-0.2916,-1.156,-0.284,-0.078391,-0.877864,40.6735,0,WHO III,Mutant,Female,34,3
+CGGA_P315,yes,included,-0.7996,-0.4393,-0.7556,-0.5073,-0.473621,-0.399929,14.8172,1,WHO II,Mutant,Female,47,2
+CGGA_P316,yes,included,-0.7068,-0.7573,-1.4897,-0.584,-0.459154,-1.228399,18.6283,0,WHO II,NA,Male,44,2
+CGGA_P319,yes,included,0.0428,6.8023,0.63,0.0093,3.018889,2.461761,16.6899,1,WHO III,Mutant,Male,37,3
+CGGA_P326,yes,included,-0.5667,-0.4201,-0.6825,-0.608,-0.470206,-0.774258,39.9836,0,WHO III,Mutant,Female,48,2
+CGGA_P328,yes,included,2.1562,-0.3912,-0.5172,-0.324,0.342999,-0.118402,19.0554,1,WHO III,Mutant,Female,54,3
+CGGA_P335,no,grade IV or ungraded (not in the LGG analysis set),-0.7702,1.2306,-0.9844,-0.0741,0.570277,0.256028,39.5236,0,WHO IV,Mutant,Male,42,
+CGGA_P337,yes,included,-0.5926,-0.5935,1.0432,-0.486,-0.909299,-0.143244,22.6366,1,WHO III,Mutant,Female,61,1
+CGGA_P338,yes,included,-0.9308,-0.6994,1.0305,0.4785,-0.580218,-0.161727,39.3593,0,WHO II,Wildtype,Male,51,1
+CGGA_P346,yes,included,-0.7425,-0.1888,-0.8605,-0.0727,-0.109412,0.223369,17.1499,0,WHO II,Mutant,Male,42,3
+CGGA_P356,yes,included,-0.4819,-0.1953,-1.1846,-0.648,-0.243839,-0.57141,18.694,1,WHO II,Mutant,Female,22,2
+CGGA_P358,yes,included,-0.8211,-0.5838,0.0866,0.0452,-0.48151,0.045019,38.3737,0,WHO II,Mutant,Male,44,2
+CGGA_P364,yes,included,-0.3748,0.4567,-0.4346,0.0979,0.265253,1.304599,16.2628,1,WHO III,Mutant,Female,41,3
+CGGA_P385,no,grade IV or ungraded (not in the LGG analysis set),-0.7613,-0.5999,0.7953,0.8278,-0.266862,0.905353,36.5339,0,WHO IV,Wildtype,Male,22,
+CGGA_P388,yes,included,0.2213,-0.1375,-0.8795,-0.5613,-0.066512,0.080129,9.6263,1,WHO III,Mutant,Female,37,3
+CGGA_P392,yes,included,-0.8916,-0.4168,2.5083,-0.514,-1.266556,-1.331705,36.1068,0,WHO II,Mutant,Male,35,1
+CGGA_P399,yes,included,-0.1945,0.3378,0.9764,-0.302,-0.270735,-0.488682,35.8111,0,WHO II,Mutant,Female,41,2
+CGGA_P401,no,grade IV or ungraded (not in the LGG analysis set),0.1392,-0.4907,-0.6316,-0.6353,-0.345909,-1.300606,25.8891,1,WHO IV,Mutant,Male,31,
+CGGA_P411,no,grade IV or ungraded (not in the LGG analysis set),0.199,2.3225,0.7349,0.1479,1.024069,-0.940746,14.4559,1,WHO IV,Mutant,Female,47,
+CGGA_P415,no,grade IV or ungraded (not in the LGG analysis set),-0.1865,-0.7027,-0.4982,0.4118,-0.057871,0.247515,6.4066,1,WHO IV,Wildtype,Female,56,
+CGGA_P416,yes,included,-0.8684,-0.3398,1.1957,-0.326,-0.822467,-0.916364,35.1211,0,WHO III,Mutant,Male,29,1
+CGGA_P421,yes,included,1.1049,1.1471,0.4298,-0.0674,0.682416,0.115612,10.1191,1,WHO III,Mutant,Male,26,3
+CGGA_P422,yes,included,-0.7568,-0.6224,-0.12,-0.7739,-0.82647,-1.429884,35.8439,0,WHO II,Mutant,Female,41,1
+CGGA_P437,yes,included,-0.7327,-0.0443,0.1724,-0.5206,-0.500385,-1.486677,33.6099,0,WHO III,Mutant,Female,47,2
+CGGA_P438,yes,included,0.0821,-0.6352,2.5718,-0.0507,-0.909392,-0.990166,33.6099,0,WHO III,Mutant,Male,41,1
+CGGA_P439,yes,included,-0.7675,-0.5614,0.6714,-0.5673,-0.890113,-2.089871,33.577,0,WHO II,Mutant,Male,45,1
+CGGA_P446,yes,included,-0.1722,0.7296,0.6491,-0.4533,-0.078046,0.202185,33.1499,0,WHO III,Mutant,Female,47,3
+CGGA_P461,yes,included,-0.6827,0.6429,0.201,-0.0594,0.04547,0.924973,19.6797,1,WHO III,Mutant,Male,28,3
+CGGA_P468,yes,included,-0.7506,0.1291,0.7858,-0.282,-0.456089,-1.03148,32.0,0,WHO III,Mutant,Female,42,2
+CGGA_P483,yes,included,-0.7443,1.8504,1.5866,0.2545,0.41023,1.552092,9.8234,1,WHO III,Wildtype,Male,41,3
+CGGA_P492,yes,included,-0.2044,-0.4779,0.379,-0.468,-0.588845,-0.755538,30.8172,0,WHO II,Mutant,Female,44,1
+CGGA_P499,no,grade IV or ungraded (not in the LGG analysis set),-0.7425,-0.7283,0.5506,0.9757,-0.192399,-0.380863,,NA,WHO IV,Wildtype,Female,69,
+CGGA_P5,yes,included,0.0348,-0.4168,0.986,-0.0454,-0.440566,0.532358,12.4189,1,WHO III,Mutant,Female,45,2
+CGGA_P500,yes,included,-0.5453,-0.5935,1.9172,-0.5773,-1.148782,-1.522661,30.5544,0,WHO II,Mutant,Female,34,1
+CGGA_P501,yes,included,-0.8211,-0.5485,0.6809,-0.352,-0.79701,-1.112975,30.423,0,WHO II,Mutant,Male,27,1
+CGGA_P505,yes,included,-0.6479,-0.4361,-0.2503,-0.264,-0.436505,-0.847999,30.3573,0,WHO II,Mutant,Male,34,2
+CGGA_P508,yes,included,-0.9639,0.7553,-0.1486,-0.2687,0.007794,-0.247104,12.386,1,WHO III,Mutant,Male,40,3
+CGGA_P510,yes,included,-0.4935,-0.5068,0.951,0.5098,-0.344079,0.586229,29.963,0,WHO III,Mutant,Male,42,2
+CGGA_P512,no,grade IV or ungraded (not in the LGG analysis set),1.4306,1.9628,0.1152,-0.622,0.953545,0.346514,17.7741,1,WHO IV,Wildtype,Male,23,
+CGGA_P520,yes,included,-0.5792,-0.1599,1.8885,-0.4227,-0.87561,-0.699607,29.0431,0,WHO III,Mutant,Female,44,1
+CGGA_P568,yes,included,-0.6702,-0.1567,-0.6602,-0.5093,-0.33285,-0.524008,7.1622,1,WHO III,Mutant,Female,23,2
+CGGA_P585,no,grade IV or ungraded (not in the LGG analysis set),1.5547,0.2897,0.0199,0.4525,0.747906,-0.027158,11.3018,1,WHO IV,Wildtype,Male,50,
+CGGA_P594,yes,included,0.4953,-0.2306,1.4023,2.2002,0.74246,0.64515,2.7598,1,WHO III,Wildtype,Male,40,3
+CGGA_P596,no,grade IV or ungraded (not in the LGG analysis set),-0.4864,0.5787,-0.3647,-0.5633,-0.040684,-0.194668,25.5277,0,WHO IV,Mutant,Female,60,
+CGGA_P604,yes,included,-0.0714,1.3655,0.7889,-0.1287,0.365139,0.947114,8.6078,1,WHO III,Wildtype,Female,15,3
+CGGA_P609,no,grade IV or ungraded (not in the LGG analysis set),-0.3168,2.7303,-0.9494,-0.5073,1.166447,-0.696354,23.8522,0,WHO IV,Wildtype,Female,19,
+CGGA_P610,no,grade IV or ungraded (not in the LGG analysis set),-1.1602,-0.5999,-0.4092,-0.1527,-0.553498,-1.026312,11.3347,1,WHO IV,Wildtype,Male,62,
+CGGA_P615,no,overall survival missing,-0.9148,-0.5838,1.647,-0.2287,-1.008274,-0.89083,,NA,WHO II,Mutant,Male,40,
+CGGA_P619,no,grade IV or ungraded (not in the LGG analysis set),-0.755,-0.5742,0.0993,0.8518,-0.076266,-0.323205,7.7536,1,WHO IV,Wildtype,Female,66,
+CGGA_P623,no,overall survival missing,-0.4159,-0.1856,0.0516,-0.326,-0.362032,-0.495742,,NA,WHO III,Mutant,Male,52,
+CGGA_P625,no,grade IV or ungraded (not in the LGG analysis set),2.299,0.1933,0.0103,0.4385,0.890958,-0.069926,5.2895,1,WHO IV,Mutant,Female,46,
+CGGA_P633,yes,included,-0.5694,-0.4072,0.5125,-0.558,-0.725232,-0.994463,22.2094,0,WHO III,Mutant,Female,40,1
+CGGA_P7,no,grade IV or ungraded (not in the LGG analysis set),1.2575,-0.5742,1.4182,0.1199,-0.221409,2.549304,3.614,1,WHO IV,Wildtype,Male,45,
+CGGA_P83,yes,included,-0.68,-0.131,0.6046,-0.6173,-0.676149,-0.648403,55.7864,0,WHO II,Mutant,Female,28,1
+CGGA_P84,yes,included,-0.2758,-0.449,0.9828,-0.5093,-0.75734,-1.083407,55.655,0,WHO II,Mutant,Female,40,1
+CGGA_P86,yes,included,-0.3025,-0.1664,2.8229,-0.5133,-1.072901,-1.152788,55.655,0,WHO II,Mutant,Female,34,1
+CGGA_P87,no,grade IV or ungraded (not in the LGG analysis set),0.9924,0.1227,-0.4473,-0.3647,0.24461,0.602069,7.885,1,WHO IV,Mutant,Male,32,
+CGGA_P89,no,grade IV or ungraded (not in the LGG analysis set),1.1093,-0.3173,0.5887,1.647,0.78903,0.777921,9.6591,1,WHO IV,Wildtype,Male,42,
+CGGA_P93,yes,included,-0.1472,-0.1407,1.7646,-0.2907,-0.662392,0.098817,55.1294,0,WHO II,Mutant,Female,45,1
+CGGA_P98,yes,included,-0.8719,-0.465,-0.3297,-0.3467,-0.528468,0.052727,10.4148,1,WHO III,Mutant,Male,44,1
+CGGA_P99,no,grade IV or ungraded (not in the LGG analysis set),-0.8023,0.2062,-0.8001,-0.504,-0.16291,0.198587,22.308,0,WHO IV,Mutant,Male,52,
